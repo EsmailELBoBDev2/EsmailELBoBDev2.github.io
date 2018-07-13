@@ -3,9 +3,9 @@
 ## ----------------------------------------
 # What's New ?
 
-## (For Users): 1-**Nothing xD** *At least not yet 😎✌️*
+## (For Users): 1-**Nothing xD**   *At least not yet 😎✌️*
 
-## (For Devs): 1-**Nothing xD** *At least not yet 😎✌️*
+## (For Devs): 1-**Nothing xD**   *At least not yet 😎✌️*
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
