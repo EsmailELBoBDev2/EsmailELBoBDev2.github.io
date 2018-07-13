@@ -3,13 +3,13 @@
 ## ----------------------------------------
 # What's New ?
 
-## (For Users): 1-**Nothing xD** *At least yet 😎✌️*
+## (For Users): 1-**Nothing xD** *At least not yet 😎✌️*
 
-## (For Devs): 1-**Nothing xD** *At least yet 😎✌️*
+## (For Devs): 1-**Nothing xD** *At least not yet 😎✌️*
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
-1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh** (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** (***Uploaded On Github Servers***)
 
 2-**Preview**:  ***http://esmailelbobpro.000webhostapp.com/***
 ## ----------------------------------------
