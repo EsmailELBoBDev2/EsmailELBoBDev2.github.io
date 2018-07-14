@@ -7,7 +7,7 @@
 1-**Disabled Drag photos option** (*For Background*)
 
 ## (For Devs): 
-1-**Added** **_draggable="false_**
+1-**Added** *draggable="false*
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
