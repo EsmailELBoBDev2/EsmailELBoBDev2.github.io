@@ -4,10 +4,10 @@
 # What's New ?
 
 ## (For Users): 
-1-**Disabled Drag photos (For Background)**
+1-**Disabled Drag photos option** (*For Background*)
 
 ## (For Devs): 
-1-**Added** **__draggable="false__**
+1-**Added** **_draggable="false_**
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
