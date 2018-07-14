@@ -4,10 +4,10 @@
 # What's New ?
 
 ## (For Users): 
-1-**Fixed my name, xD**
+1-**Disabled Drag photos (For Background)**
 
 ## (For Devs): 
-1-**Nothing Yet xD**
+1-**Added** **_draggable="false__**
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
