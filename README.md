@@ -13,7 +13,7 @@
 
 1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/15/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
-2-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***SublimeText Uploaded on SublimeText Servers***)
+2-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
 3-**Visual Studio Code**(*.exe*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
 ## ----------------------------------------
