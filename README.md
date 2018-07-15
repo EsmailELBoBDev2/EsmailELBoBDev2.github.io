@@ -1,13 +1,13 @@
 # Photo from the project
-![2018-07-13_235745](https://user-images.githubusercontent.com/28893833/42715746-92e2694e-86f8-11e8-88dd-2779cc21292e.png)
+![2018-07-15_163815](https://user-images.githubusercontent.com/28893833/42735007-833db0e2-884d-11e8-892d-4435d0c82024.png)
 ## ----------------------------------------
 # What's New ?
 
 ## (For Users): 
-1-**Disabled Drag photos option** (*For Background*)
+1-**nothing :P**
 
 ## (For Devs): 
-1-**Added** *draggable="false*
+1-**Removed a lot of unwanted codes**
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
