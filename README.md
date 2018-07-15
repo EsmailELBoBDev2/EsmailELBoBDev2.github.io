@@ -11,7 +11,13 @@
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
-1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/15/2018*** (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/15/2018***  (***Uploaded On Github Servers***)
+## ----------------------------------------
+# Code Editor Programs
+
+1-**SublimeText With Crack**(*.exe, .rar*): ***https://bit.ly/2NSvJ4w*** (***The Crack Uploaded By Me, SublimeText Uploaded on SublimeText Servers***)
+
+2-**Visual Studio Code**(*.exe*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
 ## ----------------------------------------
 **Preview/Demo**:  ***http://esmailelbobpro.000webhostapp.com/***
 ## ----------------------------------------
