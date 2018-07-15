@@ -15,7 +15,7 @@
 ## ----------------------------------------
 # Code Editor Programs
 
-1-**SublimeText With Crack**(*.exe, .rar*): ***https://bit.ly/2NSvJ4w*** (***The Crack Uploaded By Me, SublimeText Uploaded on SublimeText Servers***)
+1-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***SublimeText Uploaded on SublimeText Servers***)
 
 2-**Visual Studio Code**(*.exe*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
 ## ----------------------------------------
