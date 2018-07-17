@@ -4,14 +4,15 @@
 # What's New ?
 
 ## (For Users): 
-1-**nothing :P**
+1-**Added some new look**
 
 ## (For Devs): 
-1-**Removed a lot of unwanted codes**
+1-**Chanched photo name**
+2-**fixed some codes**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/15/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/17/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
