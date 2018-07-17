@@ -9,7 +9,7 @@
 ## (For Devs): 
 1-**Chanched photo name**
 
-2-**fixed some codes**
+2-**Fixed some codes**
 ## ----------------------------------------
 # Downloads
 
