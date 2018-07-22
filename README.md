@@ -13,6 +13,8 @@
 4-**Website must work on screens without problems**
 
 5-**Added Easter Egg :D!**
+
+6-**Fixed Photo Problem**
 ## (For Devs): 
 1-**Fixes Some Codes**
 
