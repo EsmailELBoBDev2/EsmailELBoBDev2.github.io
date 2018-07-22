@@ -1,21 +1,26 @@
 # Photo from the project
-![2018-07-15_163815](https://user-images.githubusercontent.com/28893833/42735007-833db0e2-884d-11e8-892d-4435d0c82024.png)
+![2018-07-22_173536](https://user-images.githubusercontent.com/28893833/43047305-ab9eb71a-8dd5-11e8-959e-c06b61de4740.png)
 ## ----------------------------------------
 # What's New ?
 
 ## (For Users): 
-1-**fixed font, yay!**
+1-**Fixed Font, Yay!**
 
-2-**Website must work on screens without problems**
+2-**Fixed Look For Arabic Version**
 
+3-**Added Font For Arabic Version**
+
+4-**Website must work on screens without problems**
+
+5-**Added Easter Egg :D!**
 ## (For Devs): 
-1-**Rebuilt website from start**
+1-**Fixes Some Codes**
 
-2-**Fixed All codes**
+2-**Fixed Bugs**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/21/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/22/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
