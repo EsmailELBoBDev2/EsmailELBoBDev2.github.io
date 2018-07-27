@@ -36,10 +36,11 @@
 
 2-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
 
+3-**Patreon** *NEW*: ***https://www.patreon.com/esmailelbob***
 ## ----------------------------------------
 # Partners
 
-**If you want add your name ,Send Me E-mail On**  ***esmailelbob01124320019@gmail.com***
+**Support Me To Add Your Name Here**
 ## ----------------------------------------
 
 # My Other Projects
