@@ -4,13 +4,11 @@
 # What's New ?
 
 ## (For Users): 
-1-**Fixed Font, Yay!**
+1-**Made Words Change By Reload The Website**
 
-2-**Made Words Change By Reload The Website**
+2-**Removed Easter Egg :(!**
 
-3-**Removed Easter Egg :(!**
-
-4-**Remove** *.php* **From Links**
+3-**Remove** *.php* **From Links**
 ## (For Devs): 
 1-**Fixes Some Codes**
 
