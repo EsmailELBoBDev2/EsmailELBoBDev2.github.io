@@ -1,24 +1,22 @@
 # Photo from the project
-![2018-07-22_173536](https://user-images.githubusercontent.com/28893833/43047305-ab9eb71a-8dd5-11e8-959e-c06b61de4740.png)
+
 ## ----------------------------------------
 # What's New ?
 
 ## (For Users): 
 1-**Fixed Font, Yay!**
 
-2-**Fixed Look For Arabic Version**
+2-**Made Words Change By Reload The Website**
 
-3-**Added Font For Arabic Version**
+3-**Removed Easter Egg :(!**
 
-4-**Website must work on screens without problems**
-
-5-**Added Easter Egg :D!**
-
-6-**Fixed Photo Problem**
+4-**Remove** *.php* **From Links**
 ## (For Devs): 
 1-**Fixes Some Codes**
 
 2-**Fixed Bugs**
+
+3-**Added** *.htaccess* **File**
 ## ----------------------------------------
 # Downloads
 
