@@ -18,7 +18,7 @@
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/22/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/29/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
