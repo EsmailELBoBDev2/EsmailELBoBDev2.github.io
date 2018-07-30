@@ -11,8 +11,10 @@
 
 2-**Changed Codes From PHP To JS**
 
+3-**Changed Background**
+
 ## (For Devs): 
-1-**Fixes A lot Of Codes**
+1-**Fixed A lot Of Codes**
 
 2-**Fixed Bugs**
 
