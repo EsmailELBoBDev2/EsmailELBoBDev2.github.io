@@ -9,15 +9,20 @@
 ## (For Users): 
 1-**Made Words Change By Reload The Website**
 
-2-**Changed Codes From PHP To JS**
+2-**Changed Background**
 
-3-**Changed Background**
+3-**Made Background in 1600x984**
+
+4-**Fixed Background Bug**
+
+5-**Released 2.5 Version Of Website**
 
 ## (For Devs): 
 1-**Fixed A lot Of Codes**
 
 2-**Fixed Bugs**
 
+3-**Changed Codes From PHP To JS**
 ## ----------------------------------------
 # Downloads
 
