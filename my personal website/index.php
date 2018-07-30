@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "en-US">
  <head>
- <title>Esmail EL BoB [Personal-Beta Website] (V.2)</title>
+ <title>Esmail EL BoB [Personal-Beta Website] (V 2.5)</title>
  <meta charset = "UTF-8">
  <link rel="stylesheet" type="text/css" href="style.css">
  </head>
@@ -17,7 +17,6 @@
   <div class="container-fluid">
 
   <div class="row">
-
   <div id="logo"><img src="img/logo.png"></div>
 
   <div id="hello">Hello</div>
