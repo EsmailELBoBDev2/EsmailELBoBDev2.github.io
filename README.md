@@ -9,19 +9,17 @@
 ## (For Users): 
 1-**Made Words Change By Reload The Website**
 
-2-**Removed Easter Egg :(!**
+2-**Changed Codes From PHP To JS**
 
-3-**Remove** *.php* **From Links**
 ## (For Devs): 
-1-**Fixes Some Codes**
+1-**Fixes A lot Of Codes**
 
 2-**Fixed Bugs**
 
-3-**Added** *.htaccess* **File**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/29/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/30/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
