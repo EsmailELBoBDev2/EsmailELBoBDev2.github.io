@@ -23,12 +23,12 @@ header li a:hover {
 }
 
 body, html {
-    height: 100%;
-    margin: 0;
+    height: 98%;
+    padding: 0%;
 }
 
 body {
-    background-image: url("../../img/background.gif");
+    background-image: url("img/background.gif");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -40,7 +40,7 @@ body div {
 	height: 50%;
 }
 
-div #logo {
+#logo {
     width: 72px;
     height: 72px;
     padding-right: 5px;
@@ -92,7 +92,7 @@ div #logo {
     display: flex;
     justify-content: flex-end;
     padding-left: 200px;
-    padding-top:220px;
+    padding-top: 200px;
 }
 
 #button:hover {
