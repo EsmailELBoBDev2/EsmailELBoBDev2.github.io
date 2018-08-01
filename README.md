@@ -13,6 +13,8 @@
 1-**Changed** *.php* **To** *.html*
 
 2-**Uploaded My Website On Github Pages**
+
+3-**Added/Edited** *.htaccess* **File**
 ## ----------------------------------------
 # Downloads
 
