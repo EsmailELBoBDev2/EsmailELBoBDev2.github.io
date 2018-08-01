@@ -7,26 +7,16 @@
 # What's New ?
 
 ## (For Users): 
-1-**Made Words Change By Reload The Website**
-
-2-**Changed Background**
-
-3-**Made Background in 1600x984**
-
-4-**Fixed Background Bug**
-
-5-**Released 2.5 Version Of Website**
+1-**Nothing**
 
 ## (For Devs): 
-1-**Fixed A lot Of Codes**
+1-**Changed** *.php* **To** *.html*
 
-2-**Fixed Bugs**
-
-3-**Changed Codes From PHP To JS**
+2-**Uploaded My Website On Github Pages**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.php, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/30/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/30/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
