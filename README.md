@@ -9,7 +9,7 @@
 ## (For Users): 
 1-**Nothing**
 
-## (For Devs): 
+## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
 1-**Changed** *.php* **To** *.html*
 
 2-**Uploaded My Website On Github Pages**
