@@ -9,12 +9,16 @@
 ## (For Users): 
 1-**Removed** *.gif* **Photo**
 
+2-**Fixe The Look For Mobile Screens**
+
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
 1-**As i said i removed** *.gif* **Photo So Yeah Code Changed**
 
 2-**Edited Old Codes**
 
 3-**Fixed Bugs & blah blah blah** (*all saying same* "**Fixed Bugs & Edited Codes**" *So Yeah XD*)
+
+4-**Changed Code From** `position: absolute;` **To** `position:fixed;` 
 ## ----------------------------------------
 # Downloads
 
