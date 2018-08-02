@@ -99,7 +99,7 @@ body div {
   src: url(fonts/font.ttf) format("truetype");
 }
 
-.clouds {
+.cloud {
   width: 350px;
   height: 120px;
   background: #FFF;
