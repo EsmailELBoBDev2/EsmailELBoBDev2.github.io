@@ -9,7 +9,7 @@
 ## (For Users): 
 1-**Removed** *.gif* **Photo**
 
-2-**Fixe The Look For Mobile Screens**
+2-**Fixe The Look For Mobile Users**
 
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
 1-**As i said i removed** *.gif* **Photo So Yeah Code Changed**
