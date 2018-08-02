@@ -30,6 +30,11 @@ body {
   overflow: hidden;
 }
 
+body div {
+  width: 100%;
+  height: 50%;
+}
+
 #logo {
   width: 72px;
   height: 72px;
