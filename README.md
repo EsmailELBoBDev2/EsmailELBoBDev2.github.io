@@ -1,20 +1,20 @@
 # Photos from the project
-![2018-07-30_061400](https://user-images.githubusercontent.com/28893833/43377239-f609c944-93bf-11e8-88dd-07e41bd6b3dc.png)
-![2018-07-30_061423](https://user-images.githubusercontent.com/28893833/43377240-f635ce54-93bf-11e8-9384-21b24792ce82.png)
-![2018-07-30_061431](https://user-images.githubusercontent.com/28893833/43377241-f6620230-93bf-11e8-9ea7-bb675f2ba915.png)
-![2018-07-30_061453](https://user-images.githubusercontent.com/28893833/43377242-f689b636-93bf-11e8-8890-1b5f12497f86.png)
+![2018-08-02_111606](https://user-images.githubusercontent.com/28893833/43574862-88a7779c-9645-11e8-82e6-1d5705126c14.png)
+![2018-08-02_111617](https://user-images.githubusercontent.com/28893833/43574864-88d464c8-9645-11e8-893c-1cb08aa93ff4.png)
+![2018-08-02_111554](https://user-images.githubusercontent.com/28893833/43574866-89015a46-9645-11e8-8aab-731d13f49e01.png)
+![2018-08-02_111601](https://user-images.githubusercontent.com/28893833/43574867-8929eac4-9645-11e8-9983-8d8507eb71fd.png)
 ## ----------------------------------------
 # What's New ?
 
 ## (For Users): 
-1-**Nothing**
+1-**Removed** *.gif* **Photo**
 
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
-1-**Changed** *.php* **To** *.html*
+1-**As i said i removed** *.gif* **Photo So Yeah Code Changed**
 
-2-**Uploaded My Website On Github Pages**
+2-**Edited Old Codes**
 
-3-**Added/Edited** *.htaccess* **File**
+3-**Fixed Bugs & blah blah blah** (*all saying same* "**Fixed Bugs & Edited Codes**" *So Yeah XD*)
 ## ----------------------------------------
 # Downloads
 
