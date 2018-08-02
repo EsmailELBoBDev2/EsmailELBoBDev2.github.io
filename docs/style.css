@@ -22,13 +22,6 @@ header li a:hover {
   background-color: #ccc;
 }
 
-body {
-  background: #33cc99;
-  color: #fff;
-  font-family: 'Open Sans', sans-serif;
-  max-height: 700px;
-  overflow: hidden;
-}
 
 body div {
   width: 100%;
