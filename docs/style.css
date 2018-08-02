@@ -215,29 +215,3 @@ body div {
   -o-animation: moveclouds 20s linear infinite;
 }
 
-@-webkit-keyframes moveclouds {
-  0% {
-    margin-left: 1000px;
-  }
-  100% {
-    margin-left: -1000px;
-  }
-}
-
-@-moz-keyframes moveclouds {
-  0% {
-    margin-left: 1000px;
-  }
-  100% {
-    margin-left: -1000px;
-  }
-}
-
-@-o-keyframes moveclouds {
-  0% {
-    margin-left: 1000px;
-  }
-  100% {
-    margin-left: -1000px;
-  }
-}
