@@ -128,7 +128,7 @@ body div {
   width: 100px;
   height: 100px;
   top: -50px;
-  right: 50px;
+  left: 50px;
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
@@ -138,7 +138,7 @@ body div {
   width: 180px;
   height: 180px;
   top: -90px;
-  left: 50px;
+  right: 50px;
   border-radius: 200px;
   -webkit-border-radius: 200px;
   -moz-border-radius: 200px;
