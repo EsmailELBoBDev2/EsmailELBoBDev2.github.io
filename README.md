@@ -24,7 +24,7 @@
 
 4-**Changed Code From** `position: absolute;` **To** `position:fixed;` 
 
-5**Uploaded New Photo & Added New Line Of Code**
+5-**Uploaded New Photo & Added New Line Of Code**
 ## ----------------------------------------
 # Downloads
 
