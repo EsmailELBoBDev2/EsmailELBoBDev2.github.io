@@ -13,6 +13,8 @@
 
 3-**Made Clouds Move From Left To Right In Arabic Version**
 
+4-**Added Favorite Icon**
+
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
 1-**As i said i removed** *.gif* **Photo So Yeah Code Changed**
 
@@ -21,6 +23,8 @@
 3-**Fixed Bugs & blah blah blah** (*all saying same* "**Fixed Bugs & Edited Codes**" *So Yeah XD*)
 
 4-**Changed Code From** `position: absolute;` **To** `position:fixed;` 
+
+5**Uploaded New Photo & Added New Line Of Code**
 ## ----------------------------------------
 # Downloads
 
