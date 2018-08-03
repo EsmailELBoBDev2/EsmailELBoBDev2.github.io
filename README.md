@@ -11,10 +11,12 @@
 
 2-**Fixe The Look For Mobile Users**
 
+3-**Made Clouds Move From Left To Right In Arabic Version**
+
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
 1-**As i said i removed** *.gif* **Photo So Yeah Code Changed**
 
-2-**Edited Old Codes**
+2-**Edited Old/New Codes**
 
 3-**Fixed Bugs & blah blah blah** (*all saying same* "**Fixed Bugs & Edited Codes**" *So Yeah XD*)
 
