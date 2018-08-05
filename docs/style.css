@@ -3,6 +3,7 @@ header ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  cursor: pointer;
 }
 
 header li {
@@ -81,6 +82,7 @@ body div {
   height: 54px;
   width: 150px;
   text-align: center;
+  cursor: pointer;
 }
 
 #button1place {
