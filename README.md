@@ -7,24 +7,17 @@
 # What's New ?
 
 ## (For Users): 
-1-**Removed** *.gif* **Photo**
-
-2-**Fixe The Look For Mobile Users**
-
-3-**Made Clouds Move From Left To Right In Arabic Version**
-
-4-**Added Favorite Icon**
+1-**Nothing**
 
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
-1-**As i said i removed** *.gif* **Photo So Yeah Code Changed**
 
-2-**Edited Old/New Codes**
+1-**Added*** *resetstyle.css* **File**
 
-3-**Fixed Bugs & blah blah blah** (*all saying same* "**Fixed Bugs & Edited Codes**" *So Yeah XD*)
+2-**Added** `cursor: pointer;`
 
-4-**Changed Code From** `position: absolute;` **To** `position:fixed;` 
+3-**Made Special File For JS Code**
 
-5-**Uploaded New Photo & Added New Line Of Code**
+4-**Changed** `var` **to** `let` 
 ## ----------------------------------------
 # Downloads
 
