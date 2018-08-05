@@ -11,7 +11,7 @@
 
 ## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
 
-1-**Added*** *resetstyle.css* **File**
+1-**Added** *resetstyle.css* **File**
 
 2-**Added** `cursor: pointer;`
 
