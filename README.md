@@ -9,7 +9,7 @@
 ## (For Users): 
 1-**Nothing**
 
-## (For Devs) (CNAME file not important for you, Github made it to can reach to my website, its useless for you): 
+## (For Devs): 
 
 1-**Added** *resetstyle.css* **File**
 
