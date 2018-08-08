@@ -7,17 +7,10 @@
 # What's New ?
 
 ## (For Users): 
-1-**Nothing**
+1-**A lot of things** (*Discover It!*)
 
 ## (For Devs): 
-
-1-**Added** *resetstyle.css* **File**
-
-2-**Added** `cursor: pointer;`
-
-3-**Made Special File For JS Code**
-
-4-**Changed** `var` **to** `let` 
+1-**A lot of things** (*Discover It!*)
 ## ----------------------------------------
 # Downloads
 
