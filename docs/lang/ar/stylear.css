@@ -99,7 +99,7 @@ body div {
 
 @font-face {
   font-family: "Pacifico";
-  src: url(fonts/font.ttf) format("truetype");
+  src: url(../../fonts/fontar.ttf) format("truetype");
 }
 
 .cloud {
@@ -196,7 +196,7 @@ body div {
 
 .x4 {
   right: 470px;
-  bottom: 20px;
+  botttom: 20px;
   -webkit-transform: scale(0.75);
   -moz-transform: scale(0.75);
   transform: scale(0.75);
@@ -220,27 +220,27 @@ body div {
 
 @-webkit-keyframes moveclouds {
   0% {
-    margin-left: 1000px;
+    margin-right: 1000px;
   }
   100% {
-    margin-left: -1000px;
+    margin-right: -1000px;
   }
 }
 
 @-moz-keyframes moveclouds {
   0% {
-    margin-left: 1000px;
+    margin-right: 1000px;
   }
   100% {
-    margin-left: -1000px;
+    margin-right: -1000px;
   }
 }
 
 @-o-keyframes moveclouds {
   0% {
-    margin-left: 1000px;
+    margin-right: 1000px;
   }
   100% {
-    margin-left: -1000px;
+    margin-right: -1000px;
   }
 }
