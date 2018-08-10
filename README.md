@@ -10,7 +10,7 @@
 1-**The Website Must Open Faster Now**
 
 ## (For Devs): 
-1-**Rewrite The JS Code** (*That's Why* "***The Website Must Open Faster Now***" For Users! :P)
+1-**Rearranged The Whole JS Code** (*That's Why* "***The Website Must Open Faster Now***" For Users! :P)
 ## ----------------------------------------
 # Downloads
 
