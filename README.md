@@ -7,10 +7,10 @@
 # What's New ?
 
 ## (For Users): 
-1-**A lot of things** (*Discover It!*)
+1-**The Website Must Open Faster Now**
 
 ## (For Devs): 
-1-**A lot of things** (*Discover It!*)
+1-**Rewrite The JS Code** (*That's Why* "***The Website Must Open Faster Now***" For Users! :P)
 ## ----------------------------------------
 # Downloads
 
