@@ -7,10 +7,14 @@
 # What's New ?
 
 ## (For Users): 
-1-**The Website Must Open Faster Now**
+1-**Removed Font From Arabic Version** (*Until Found New Good One*)
+
+2-**Changed Font In Arabic Version** (*3D Font :V*)
+
+3-**Added Msg To People Who's Block JavaScript Objects On Websites** (*To see My Words Appear Randomly*)
 
 ## (For Devs): 
-1-**Rearranged The Whole JS Code** (*That's Why* "***The Website Must Open Faster Now***" For Users! :P)
+1-**Nothing :P**
 ## ----------------------------------------
 # Downloads
 
