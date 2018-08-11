@@ -1,20 +1,25 @@
-let ed = new Audio("../../songs/ed.mp3");
-let drake = new Audio("../../songs/drake.mp3");
+// This Function For The Random Array List (Random Words)
+let mainJS = function() {
 let randomwords = [
   "انا مبرمج محترف",
-  "أفضل مبمرج هتشوفة فى حياتك هههه",
+  "أفشل مبرمج هتشوفة فى حياتك ههههه",
   "علشان كدا متقوليش يا بيبى <br> -إيد شيران",
   "كيكى انت بتحبينى ؟ <br> -دريك"
 ];
-
 let randomItem = Math.floor(Math.random() * randomwords.length);
 document.getElementById("randomwords").innerHTML = randomwords[randomItem];
-function play() {
+
+//-----------------------------------------------
+
+/* This Function For The Songs (Witch Will Play When Specific Word Will Appear To User 
+From The Random Array List (Random Words) */
+let ed = new Audio("../../songs/ed.mp3");
+let drake = new Audio("../../songs/drake.mp3");
   if (randomItem ==2) {
     ed.play();
   } else if (randomItem ==3) {
   drake.play();
-  }
+  } 
 }
 
-play(); 
+mainJS();
