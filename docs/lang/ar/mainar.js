@@ -13,8 +13,8 @@ document.getElementById("randomwords").innerHTML = randomwords[randomItem];
 
 /* This Function For The Songs (Witch Will Play When Specific Word Will Appear To User 
 From The Random Array List (Random Words) */
-let ed = new Audio("songs/ed.mp3");
-let drake = new Audio("songs/drake.mp3");
+let ed = new Audio("../../songs/ed.mp3");
+let drake = new Audio("../../songs/drake.mp3");
   if (randomItem ==2) {
     ed.play();
   } else if (randomItem ==3) {
