@@ -7,14 +7,14 @@
 # What's New ?
 
 ## (For Users): 
-1-**A lot of things** (*Discover It!*)
+1-**The Website Must Open Faster Now**
 
 ## (For Devs): 
-1-**A lot of things** (*Discover It!*)
+1-**Rearranged The Whole JS Code** (*That's Why* "***The Website Must Open Faster Now***" For Users! :P)
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***7/30/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/8/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
@@ -22,7 +22,10 @@
 
 4-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
 ## ----------------------------------------
-**Preview/Demo**:  ***http://esmailelbobpro.000webhostapp.com/*** / ***http://esmailelbob.pw***
+# Preview/Demo:
+***http://esmailelbob.pw*** / ***https://esmailelbobdev2.github.io/my-personal-website/***
+
+***http://esmailelbobpro.000webhostapp.com/*** (*My SandBox*)
 ## ----------------------------------------
 # Support
 
