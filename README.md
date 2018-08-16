@@ -12,7 +12,7 @@
 ## (For Devs): 
 1-**Removed** *stylesheet.css* **File**
 
-2-**Removed** **fav-ico.ico** **File**
+2-**Removed** *fav-ico.ico* **File**
 ## ----------------------------------------
 # Downloads
 
