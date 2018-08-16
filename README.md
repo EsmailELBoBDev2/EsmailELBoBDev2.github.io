@@ -7,18 +7,16 @@
 # What's New ?
 
 ## (For Users): 
-1-**Removed Font From Arabic Version** (*Until Found New Good One*)
-
-2-**Changed Font In Arabic Version** (*3D Font :V*)
-
-3-**Added Msg To People Who's Block JavaScript Objects On Websites** (*To see My Words Appear Randomly*)
+1-**Nothing :P**
 
 ## (For Devs): 
-1-**Nothing :P**
+1-**Removed** *stylesheet.css* **File**
+
+2-**Removed** *fav-ico.ico* **File**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.html, .css*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/8/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css, .js, .png, .mp3*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/16/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
