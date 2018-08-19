@@ -74,22 +74,15 @@ body div {
   padding-right: 8px;
 }
 
-
 #button {
-  font-family: arial;
-  background: #13a574;
-  border: 2px solid #24bc89;
-  color: white;
-  height: 54px;
-  width: 150px;
-  text-align: center;
-  cursor: pointer;
+  font-family: 'Kulminoituva', cursive;
+  font-size: 3em;
 }
 
 #button1place {
   display: flex;
-  justify-content: flex-end;
-  padding-right: 200px;
+  justify-content: flex-start;
+  padding-left: 80px;
   padding-top: 30px;
 }
 
@@ -98,9 +91,9 @@ body div {
 }
 
 @font-face {
-   src:url(https://fonts.googleapis.com/css?family=Reem+Kufi&subset=arabic);
-   font-family: 'Reem Kufi', sans-serif;
-   font-weight:bolder;
+  src: url(https://fonts.googleapis.com/css?family=Reem+Kufi&subset=arabic);
+  font-family: 'Reem Kufi', sans-serif;
+  font-weight: bolder;
 }
 
 .cloud {
@@ -115,7 +108,7 @@ body div {
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
-  position:fixed;
+  position: fixed;
   margin: 120px auto 20px;
   z-index: -1;
   transition: ease 1s;

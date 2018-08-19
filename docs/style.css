@@ -1,4 +1,3 @@
-
 header ul {
   list-style-type: none;
   margin: 0;
@@ -65,7 +64,7 @@ body div {
   padding-left: 5px;
 }
 
-#dead {
+#randomwords {
   display: flex;
   justify-content: flex-start;
   font-family: 'Kulminoituva', cursive;
@@ -75,22 +74,15 @@ body div {
   padding-left: 8px;
 }
 
-
 #button {
-  font-family: arial;
-  background: #13a574;
-  border: 2px solid #24bc89;
-  color: white;
-  height: 54px;
-  width: 150px;
-  text-align: center;
-  cursor: pointer;
+  font-family: 'Kulminoituva', cursive;
+  font-size: 3em;
 }
 
 #button1place {
   display: flex;
   justify-content: flex-start;
-  padding-left: 200px;
+  padding-left: 80px;
   padding-top: 30px;
 }
 
@@ -99,7 +91,7 @@ body div {
 }
 
 @font-face {
-   font-family: "Kulminoituva";
+  font-family: "Kulminoituva";
   src: url(fonts/font.ttf) format("truetype");
 }
 
@@ -115,7 +107,7 @@ body div {
   border-radius: 100px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
-  position:fixed;
+  position: fixed;
   margin: 120px auto 20px;
   z-index: -1;
   transition: ease 1s;
