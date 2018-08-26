@@ -4,17 +4,15 @@
 # What's New ?
 
 ## (For Users): 
-1-**Changed Button Look**
+1-**Removed The Link From The Button**
 
 2-**Fixed The Look Of Things In The Website**
 ## (For Devs): 
-1-**Changed Button Code**
-
-2-**Fixed CSS Code**
+1-**Added New Page**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.html, .css, .js, .png, .mp3*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/19/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css, .js, .png, .mp3*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/26/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
