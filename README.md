@@ -1,22 +1,20 @@
-# Photos from the project
-![2018-08-02_111606](https://user-images.githubusercontent.com/28893833/43574862-88a7779c-9645-11e8-82e6-1d5705126c14.png)
-![2018-08-02_111617](https://user-images.githubusercontent.com/28893833/43574864-88d464c8-9645-11e8-893c-1cb08aa93ff4.png)
-![2018-08-02_111554](https://user-images.githubusercontent.com/28893833/43574866-89015a46-9645-11e8-8aab-731d13f49e01.png)
-![2018-08-02_111601](https://user-images.githubusercontent.com/28893833/43574867-8929eac4-9645-11e8-9983-8d8507eb71fd.png)
+# Photo from the project
+![2018-08-19_030739](https://user-images.githubusercontent.com/28893833/44304482-171f1880-a35d-11e8-9896-a8299930b5bb.png)
 ## ----------------------------------------
 # What's New ?
 
 ## (For Users): 
-1-**Nothing :P**
+1-**Changed Button Look**
 
+2-**Fixed The Look Of Things In The Website**
 ## (For Devs): 
-1-**Removed** *stylesheet.css* **File**
+1-**Changed Button Code**
 
-2-**Removed** *fav-ico.ico* **File**
+2-**Fixed CSS Code**
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.html, .css, .js, .png, .mp3*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/16/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+1-**The Project**(*.html, .css, .js, .png, .mp3*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/19/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
