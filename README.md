@@ -5,8 +5,6 @@
 
 ## (For Users): 
 1-**Removed The Link From The Button**
-
-2-**Fixed The Look Of Things In The Website**
 ## (For Devs): 
 1-**Added New Page**
 ## ----------------------------------------
