@@ -20,6 +20,16 @@
 ## (For Devs): 
 1-**Added New Page**
 ## ----------------------------------------
+# How To Install
+
+1-**Download Projects File** *https://bit.ly/2LgPJfh*
+
+2-**Download Code Editor** (*Skip This, If You Already Have One*) *https://bit.ly/1bR8d2o*
+
+3-**Extract Files** (*On Dektop As Example*)
+
+4-**Open Your Text Editor & Drag & Drop My Project's Files** (*Drag & Drop* **Index.html** *As Example*)
+## ----------------------------------------
 # Downloads
 
 1-**The Project**(*.html, .css, .js, .png, .mp3*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/26/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
