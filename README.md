@@ -1,6 +1,18 @@
 # Photo from the project
 ![2018-08-19_030739](https://user-images.githubusercontent.com/28893833/44304482-171f1880-a35d-11e8-9896-a8299930b5bb.png)
 ## ----------------------------------------
+
+| No.  | Name | Link |
+| ------------- | ------------- | ------------- |
+| 1  | What's New  | https://github.com/EsmailELBoBDev2/my-personal-website#----------------------------------------  |
+| 2  | How To Install|   |
+| 3  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------1  |
+| 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
+| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
+| 6  | Partners  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
+| 7  | My Other Projects  |https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
+| 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
+## ----------------------------------------
 # What's New ?
 
 ## (For Users): 
@@ -25,11 +37,7 @@
 ## ----------------------------------------
 # Support
 
-1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
-
-2-**Patreon**: ***https://www.patreon.com/esmailelbob***
-
-3-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
+**Buy Me A Coffee**: ***buymeacoff.ee/esmailelbobdev2***
 ## ----------------------------------------
 # Partners
 
