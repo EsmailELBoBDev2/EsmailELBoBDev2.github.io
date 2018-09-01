@@ -10,7 +10,7 @@
 | 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
 | 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
-| 7  | My Other Projects  |https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
+| 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
 # What's New ?
