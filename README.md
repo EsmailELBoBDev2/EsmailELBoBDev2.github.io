@@ -4,14 +4,14 @@
 
 | No.  | Name | Link |
 | ------------- | ------------- | ------------- |
-| 1  | What's New  | https://github.com/EsmailELBoBDev2/my-personal-website#----------------------------------------  |
-| 2  | How To Install|   |
-| 3  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------1  |
-| 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
-| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
-| 6  | Partners  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
-| 7  | My Other Projects  |https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
-| 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
+| 1  | What's New  | https://github.com/EsmailELBoBDev2/my-personal-website#----------------------------------------1  |
+| 2  | How To Install| https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
+| 3  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
+| 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
+| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
+| 6  | Partners  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
+| 7  | My Other Projects  |https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
+| 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
 # What's New ?
 
