@@ -16,9 +16,13 @@
 # What's New ?
 
 ## (For Users): 
-1-**Removed The Link From The Button**
+1-**Removed** *My E-mails.html* **Page**
+
+2-**Removed Arabic Version** *Sorry :(!*
+
+3-**Added New Song** *:D!*
 ## (For Devs): 
-1-**Added New Page**
+1-**Played In Codes** *Agaaain*
 ## ----------------------------------------
 # How To Install
 

@@ -1,28 +1,3 @@
-header ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-header li {
-  float: right;
-}
-
-header li a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-  font-family: arial;
-}
-
-header li a:hover {
-  background-color: #ccc;
-}
-
 body {
   background: #33cc99;
   color: #fff;
@@ -41,7 +16,7 @@ body div {
   height: 72px;
   padding-right: 300px;
   float: right;
-  padding-top: 250px;
+  padding-top: 200px;
 }
 
 #hi {
@@ -78,7 +53,7 @@ body div {
   font-family: 'Kulminoituva', cursive;
   font-size: 3em;
   color: white;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 #button1place {
@@ -90,6 +65,20 @@ body div {
 
 #button:hover {
   background: #24bc89;
+}
+
+.footer {
+  width: 100%;
+  height: 100%;
+  margin-top: 100px;
+}
+
+.footer p {
+  color: black;
+  font-family: cursive;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
 }
 
 @font-face {
@@ -217,6 +206,7 @@ body div {
   0% {
     margin-left: 1000px;
   }
+
   100% {
     margin-left: -1000px;
   }
@@ -226,6 +216,7 @@ body div {
   0% {
     margin-left: 1000px;
   }
+
   100% {
     margin-left: -1000px;
   }
@@ -235,6 +226,7 @@ body div {
   0% {
     margin-left: 1000px;
   }
+
   100% {
     margin-left: -1000px;
   }
