@@ -4,7 +4,6 @@ let mainJS = function() {
     "I'm professional programmer",
     "Noobest programmer you will ever see xD",
     "So Dont Call Me Baby, Unless You Mean It! <br> -Ed Sheeran",
-    "Kiki Do You Love Me ? <br> -Drake",
     "Smash into everyone, crash into everything <br> -Eminem"
   ];
   let randomItem = Math.floor(Math.random() * randomwords.length);
@@ -12,16 +11,13 @@ let mainJS = function() {
 
   //-----------------------------------------------
 
-  /* This Function For The Songs (Witch Will Play When Specific Word Will Appear To User
-  From The Random Array List (Random Words) */
+  /* This Function For The Songs (Which Will Play Auto When Specific Word Will Appear To 
+  User From The Random Array List (Random Words) */
   let ed = new Audio("songs/ed.mp3");
-  let drake = new Audio("songs/drake.mp3");
   let eminem = new Audio("songs/eminem.mp3");
   if (randomItem == 2) {
     ed.play();
   } else if (randomItem == 3) {
-    drake.play();
-  } else if (randomItem == 4) {
     eminem.play();
   }
 }

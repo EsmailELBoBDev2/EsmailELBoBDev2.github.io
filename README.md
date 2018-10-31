@@ -16,11 +16,8 @@
 # What's New ?
 
 ## (For Users): 
-1-**Removed** *My E-mails.html* **Page**
+1-**Removed Song** *Drake's song*
 
-2-**Removed Arabic Version** *Sorry :(!*
-
-3-**Added New Song** *:D!*
 ## (For Devs): 
 1-**Played In Codes** *Agaaain*
 ## ----------------------------------------
