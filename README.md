@@ -8,7 +8,7 @@
 | 2  | How To Install| https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
 | 3  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
 | 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
-| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
+| 5  | Support  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
 | 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
@@ -47,11 +47,11 @@
 ***http://esmailelbobpro.000webhostapp.com/*** (*My SandBox*)
 ## ----------------------------------------
 # Support
-1-**From Buy Me A Coffee.com**: ***https://buymeacoff.ee/esmailelbobdev2***
+**From Buy Me A Coffee.com**: ***https://buymeacoff.ee/esmailelbobdev2***
 
 or
 
-2-**From Brave Browser** *Referral Link*: ***https://brave.com/esm389***
+**From Brave Browser** *Referral Link*: ***https://brave.com/esm389***
 ## ----------------------------------------
 # Supporters
 
