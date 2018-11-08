@@ -46,9 +46,12 @@
 
 ***http://esmailelbobpro.000webhostapp.com/*** (*My SandBox*)
 ## ----------------------------------------
-# Buy Me A Coffee (*Support*)
+# Support
+1-**From Buy Me A Coffee.com**: ***https://buymeacoff.ee/esmailelbobdev2***
 
-**Buy Me A Coffee**: ***https://buymeacoff.ee/esmailelbobdev2***
+or
+
+2-**From Brave Browser** *Referral Link*: ***https://brave.com/esm389***
 ## ----------------------------------------
 # Supporters
 
