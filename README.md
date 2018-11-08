@@ -47,7 +47,7 @@
 ***http://esmailelbobpro.000webhostapp.com/*** (*My SandBox*)
 ## ----------------------------------------
 # Support
-**From Buy Me A Coffee.com**: ***https://buymeacoff.ee/esmailelbobdev2***
+**From Buy Me A Coffee Website**: ***https://buymeacoff.ee/esmailelbobdev2***
 
 or
 
