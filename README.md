@@ -36,20 +36,14 @@
 1-**The Project**(*.rar*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/26/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***) (***
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
+
 or
 
 3-**Visual Studio Code**(*.exe*)(*Code Editor*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
+
 or
-
-
-
 
 4-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
-or
-
-
-
-
 ## ----------------------------------------
 # Preview/Demo:
 ***http://esmailelbob.pw*** / ***https://esmailelbobdev2.github.io/my-personal-website/***
