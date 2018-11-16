@@ -33,7 +33,7 @@
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*.rar*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***8/26/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***) (***
+1-**The Project**(*.rar*): ***https://bit.ly/2LgPJfh*** [**UPDATED**] ***11/17/2018*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
