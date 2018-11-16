@@ -23,7 +23,7 @@
 ## ----------------------------------------
 # How To Install
 
-1-**Download Projects File**: *https://bit.ly/2LgPJfh*
+1-**Download Project Files**: *https://bit.ly/2LgPJfh*
 
 2-**Download Code Editor** (*Skip This, If You Already Have One*): *https://bit.ly/1bR8d2o*
 
