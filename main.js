@@ -1,5 +1,5 @@
 // This Function For The Random Array List (Random Words)
-let mainJS = function() {
+let mainJS = function(ed, eminem) {
   let randomwords = [
     "I'm professional programmer",
     "Noobest programmer you will ever see xD",
@@ -13,12 +13,11 @@ let mainJS = function() {
 
   /* This Function For The Songs (Which Will Play Auto When Specific Word Will Appear To 
   User From The Random Array List (Random Words) */
-  let ed = new Audio("songs/ed.mp3");
-  let eminem = new Audio("songs/eminem.mp3");
+
   if (randomItem == 2) {
     ed.play();
   } else if (randomItem == 3) {
     eminem.play();
   }
 }
-mainJS();
+mainJS(new Audio("songs/ed.mp3"), new Audio("songs/eminem.mp3"));

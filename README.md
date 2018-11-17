@@ -1,4 +1,4 @@
-# Photo from the project
+-# Photo from the project
 ![2018-08-19_030739](https://user-images.githubusercontent.com/28893833/44304482-171f1880-a35d-11e8-9896-a8299930b5bb.png)
 ## ----------------------------------------
 
@@ -16,10 +16,10 @@
 # What's New ?
 
 ## (For Users): 
-1-**Removed Song** *Drake's song*
+1-**Nothing New**
 
 ## (For Devs): 
-1-**Played In Codes** *Agaaain*
+1-**Played In JS Codes** *Agaaain*
 ## ----------------------------------------
 # How To Install
 
