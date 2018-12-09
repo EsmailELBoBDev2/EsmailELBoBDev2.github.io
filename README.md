@@ -16,10 +16,12 @@
 # What's New ?
 
 ## (For Users): 
-1-**Nothing New**
+1-**Added New Song** *yay!*
+
+2-**Removed Eminem Song** *Because i not want a lot of songs so removed one & added one*
 
 ## (For Devs): 
-1-**Played In JS Codes** *Agaaain*
+1-**Changed JS Codes For New Song!** *Dah*
 ## ----------------------------------------
 # How To Install
 
