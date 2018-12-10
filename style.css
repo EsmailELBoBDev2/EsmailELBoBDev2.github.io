@@ -84,6 +84,22 @@ body {
 #spotify {
  margin-right: 20px;
 }
+
+#copyrights {
+  font-size: 20px;
+}
+
+#sub2pewds {
+  color: red;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#sub2pewds:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
 .footer {
  display: flex;
  justify-content:center;

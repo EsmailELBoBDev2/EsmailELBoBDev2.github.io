@@ -21,10 +21,11 @@
 
 2-**Made Website Responsive On Phones**
 
-## (For Devs): 
-1-*"Made New Website & Changed Look Of Website"* **Which Means All Codes Changed Too!**
+3-**Added Website Name On Top Of The Site**
 
-2-**Added** *<meta name="viewport" content="width=device-width, initial-scale=1.0">* **Code**
+4-**Added** *Sub 2 pewds* **In Footer** *I DOING MY PART!*
+## (For Devs): 
+1-**Added/Removed/Changed Codes**
 ## ----------------------------------------
 # How To Install
 
