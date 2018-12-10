@@ -1,5 +1,6 @@
 # Photo from the project
-![2018-08-19_030739](https://user-images.githubusercontent.com/28893833/44304482-171f1880-a35d-11e8-9896-a8299930b5bb.png)
+
+![bandicam 2018-12-10 01-59-33-224](https://user-images.githubusercontent.com/28893833/49704735-b7e85b00-fc0e-11e8-9764-60b476440752.jpg)
 ## ----------------------------------------
 
 | No.  | Name | Link |
@@ -16,12 +17,10 @@
 # What's New ?
 
 ## (For Users): 
-1-**Added New Song** *yay!*
-
-2-**Removed Eminem Song** *Because i not want a lot of songs so removed one & added one*
+1-**Made A New Website** *Yup, I Built New Website With New Look!*
 
 ## (For Devs): 
-1-**Changed JS Codes For New Song!** *Dah*
+1-*"Made New Website & Changed Look Of Website"* **Which Means All Codes Changed Too!**
 ## ----------------------------------------
 # How To Install
 
