@@ -5,11 +5,31 @@ body {
  margin-bottom: 0px;
 }
 
+.head {
+ display: flex;
+ justify-content:center;
+ margin-top: 30px;
+}
+
+#site-name {
+  text-decoration: none;
+  display: inline;
+  font-weight: 700;
+  font-size: 30px;
+  color: black;
+}
+
+#site-name:hover {
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
+
 #photo {
   display: flex;
   justify-content:center;
   border-radius: 50%;
-  margin-top: 85px;
+  margin-top: 50px;
 }
 
 #name {
@@ -68,4 +88,5 @@ body {
  display: flex;
  justify-content:center;
  margin-top: 100px;
+ margin-bottom: 20px;
 }
