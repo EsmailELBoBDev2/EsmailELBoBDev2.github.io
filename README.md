@@ -14,13 +14,17 @@
 | 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
-# What's New ?
+# What's New ?            
 
 ## (For Users): 
 1-**Made A New Website** *Yup, I Built New Website With New Look!*
 
+2-**Made Website Responsive On Phones**
+
 ## (For Devs): 
 1-*"Made New Website & Changed Look Of Website"* **Which Means All Codes Changed Too!**
+
+2-**Added** *<meta name="viewport" content="width=device-width, initial-scale=1.0">* **Code**
 ## ----------------------------------------
 # How To Install
 
