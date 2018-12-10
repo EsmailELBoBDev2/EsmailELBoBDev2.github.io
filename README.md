@@ -1,6 +1,8 @@
 # Photo from the project
 
-![bandicam 2018-12-10 01-59-33-224](https://user-images.githubusercontent.com/28893833/49704735-b7e85b00-fc0e-11e8-9764-60b476440752.jpg)
+![Project Photo, From Desktop](https://user-images.githubusercontent.com/28893833/49764445-5e903280-fcc7-11e8-8c31-7e774249aded.jpg)
+
+![Project Photo, From Mobile](https://user-images.githubusercontent.com/28893833/49764426-4ddfbc80-fcc7-11e8-8e25-8792d11e62f6.jpg)
 ## ----------------------------------------
 
 | No.  | Name | Link |
