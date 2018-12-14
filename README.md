@@ -19,15 +19,10 @@
 # What's New ?            
 
 ## (For Users): 
-1-**Made A New Website** *Yup, I Built New Website With New Look!*
+1-**Changed Colors Of The Website**
 
-2-**Made Website Responsive On Phones**
-
-3-**Added Website Name On Top Of The Site**
-
-4-**Added** *Sub 2 pewds* **In Footer** *I DOING MY PART!*
 ## (For Devs): 
-1-**Added/Removed/Changed Codes**
+1-**Improved Codes**
 ## ----------------------------------------
 # How To Install
 
