@@ -56,11 +56,12 @@ or
 4-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
 ## ----------------------------------------
 # Preview/Demo:
-***http://esmailelbob.pw*** / ***https://esmailelbobdev2.github.io/my-personal-website/***
+1-**The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbobdev2.github.io/my-personal-website/***
 
-**dat://15c8e03fcc5f44fa7ff33abd9067eb4ac02b0bafbeb3dba0cc77f7ba44511dc3/** (*My Website On* **Dat://** *Project*) 
+2-**Onion/Dark Web Version**: ***http://yvt7wljzviopcd6wrbzlsrpayfaap22uxehezs2kyvndmxsblk7guxad.onion/***
+3-**Dat:// Version**: ***dat://15c8e03fcc5f44fa7ff33abd9067eb4ac02b0bafbeb3dba0cc77f7ba44511dc3/***
 
-**http://yvt7wljzviopcd6wrbzlsrpayfaap22uxehezs2kyvndmxsblk7guxad.onion/** (*My Website On* **Onion Project** *Or* **The Dark Web**)
+
 
 ***http://esmailelbobpro.000webhostapp.com/*** (*My SandBox*)
 ## ----------------------------------------
