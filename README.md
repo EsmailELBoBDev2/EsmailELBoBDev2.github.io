@@ -1,8 +1,11 @@
 # Photo from the project
 
-![Project Photo, From Desktop](https://user-images.githubusercontent.com/28893833/49764445-5e903280-fcc7-11e8-8c31-7e774249aded.jpg)
+![](https://user-images.githubusercontent.com/28893833/50046722-edbe9100-009f-11e9-9907-8dbe807f6c7f.png)
 
-![Project Photo, From Mobile](https://user-images.githubusercontent.com/28893833/49764426-4ddfbc80-fcc7-11e8-8e25-8792d11e62f6.jpg)
+![](https://user-images.githubusercontent.com/28893833/50046723-ee572780-009f-11e9-8ffa-fb36a5c3cb20.png)
+
+![](https://user-images.githubusercontent.com/28893833/50046724-ee572780-009f-11e9-988d-da33e1ae755b.png)
+
 ## ----------------------------------------
 
 | No.  | Name | Link |
@@ -19,10 +22,14 @@
 # What's New ?            
 
 ## (For Users): 
-1-**Changed Colors Of The Website**
+1-**Added** *Light* **&** *Dark* **Modes**
+
+2-**Added Message For Who's Disabled JS**
+
+3-**Another Thing, I Not Remember It** *xD*
 
 ## (For Devs): 
-1-**Improved Codes**
+1-**Improved, Changed & Played In Codes** *OFC!*
 ## ----------------------------------------
 # How To Install
 
@@ -50,6 +57,10 @@ or
 ## ----------------------------------------
 # Preview/Demo:
 ***http://esmailelbob.pw*** / ***https://esmailelbobdev2.github.io/my-personal-website/***
+
+**dat://15c8e03fcc5f44fa7ff33abd9067eb4ac02b0bafbeb3dba0cc77f7ba44511dc3/ ** (*My Website On* **Dat:// ** *Project*) 
+
+**http://yvt7wljzviopcd6wrbzlsrpayfaap22uxehezs2kyvndmxsblk7guxad.onion/** (*My Website On* **Onion Project** *Or* **The Dark Web**)
 
 ***http://esmailelbobpro.000webhostapp.com/*** (*My SandBox*)
 ## ----------------------------------------

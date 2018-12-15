@@ -3,6 +3,7 @@ body {
   margin-left: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
+  background-color: #282c34;
 }
 
 .header {
@@ -16,6 +17,12 @@ body {
   font-weight: 700;
   font-size: 50px;
   cursor: pointer;
+  color: #939caa;
+}
+
+#site-name:hover {
+  color: white;
+  cursor: pointer;
 }
 
 #light-mode {
@@ -24,13 +31,11 @@ body {
   text-decoration: none;
   font-size: 30px;
   cursor: pointer;
+  color: #939caa;
 }  
 
-#dark-mode {
-  display: flex;
-  justify-content: center;
-  text-decoration: none;
-  font-size: 30px;
+#light-mode:hover {
+  color: white;
   cursor: pointer;
 }
 
@@ -47,9 +52,10 @@ body {
   margin-bottom: 5px;
   font-weight: 700;
   margin-top: 20px;
+  color: #939caa;
 }
 
-#random {
+#sub {
   display: flex;
   justify-content: center;
   font-size: 30px;
@@ -57,12 +63,18 @@ body {
   font-weight: 500;
   margin-top: 20px;
   text-align: center;
+  color: #939caa;
 }
 
 .fa {
   text-decoration: none;
   color: #939caa;
   margin-top: 30px;
+}
+
+.fa:hover {
+  color: white;
+  cursor: pointer;
 }
 
 .social-media {
@@ -112,5 +124,9 @@ body {
   font-size: 25px;
   color: #939caa;
   text-decoration: none;
+}
+
+#my-name:hover {
+  color: white;
   cursor: pointer;
 }
