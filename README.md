@@ -29,7 +29,7 @@
 3-**Another Thing, I Not Remember It** *xD*
 
 ## (For Devs): 
-1-**Improved, Changed & Played In Codes** *OFC!*
+1-**Improved, Changed & Played In Codes** *Again*
 ## ----------------------------------------
 # How To Install
 
