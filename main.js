@@ -13,9 +13,8 @@ function ranomWords() {
 function darkmode(){
 document.body.style.backgroundColor = "#282c34";
 document.getElementById("site-name").style.color = "#939caa";
-document.getElementById("light-mode").style.color = "#939caa";
-document.getElementById("light-mode").style.visibility = "visible";
-document.getElementById("dark-mode").style.visibility = "hidden";
+document.getElementById("mode").style.color = "#939caa";
+document.getElementById("mode").innerHTML = "Light Mode";
 document.getElementById("name").style.color = "#939caa";
 document.getElementById("random").style.color = "#939caa";
 let socialMedia = document.querySelectorAll(".fa"); 
@@ -37,9 +36,9 @@ darkmode();
 function lightmode(){
 document.body.style.backgroundColor = "white";
 document.getElementById("site-name").style.color = "black";
-document.getElementById("dark-mode").style.color = "black";
-document.getElementById("light-mode").style.visibility = "hidden";
-document.getElementById("dark-mode").style.visibility = "visible";
+document.getElementById("mode").style.color = "black";
+document.getElementById("mode").innerHTML = "Dark Mode";
+document.getElementById("mode").href = "/";
 document.getElementById("name").style.color = "black";
 document.getElementById("random").style.color = "black";
 let socialMedia = document.querySelectorAll(".fa"); 
