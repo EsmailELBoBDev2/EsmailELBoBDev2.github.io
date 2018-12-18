@@ -1,4 +1,4 @@
-# Photo from the project
+# Photos from the project
 
 ![2018-12-18_160040](https://user-images.githubusercontent.com/28893833/50159243-26dc4880-02ce-11e9-9f91-ee70d27b8e33.png)
 ![2018-12-18_160055](https://user-images.githubusercontent.com/28893833/50159245-26dc4880-02ce-11e9-8ece-f259a4d63063.png)
