@@ -1,10 +1,10 @@
 # Photos from the project
 
-![Desktop Version](https://user-images.githubusercontent.com/28893833/50167616-76783f80-02e1-11e9-84ca-1af416fdeac9.png)
 ![Desktop Version](https://user-images.githubusercontent.com/28893833/50167617-76783f80-02e1-11e9-8ee1-42d4bfc4c740.png)
-!["JS" Message](https://user-images.githubusercontent.com/28893833/50167619-7710d600-02e1-11e9-8bef-f8c8b2184637.png)
+![Desktop Version](https://user-images.githubusercontent.com/28893833/50167619-7710d600-02e1-11e9-8bef-f8c8b2184637.png)
 ![Mobile Version](https://user-images.githubusercontent.com/28893833/50159246-26dc4880-02ce-11e9-96b3-4276756a4bb6.png)
 ![Mobile Version](https://user-images.githubusercontent.com/28893833/50159247-2774df00-02ce-11e9-8d9b-87ef9dc1b37f.png)
+!["JS" Message](https://user-images.githubusercontent.com/28893833/50167616-76783f80-02e1-11e9-84ca-1af416fdeac9.png)
 ## ----------------------------------------
 
 | No.  | Name | Link |
