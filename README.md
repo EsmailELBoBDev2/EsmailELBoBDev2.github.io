@@ -1,10 +1,10 @@
 # Photos from the project
 
-![2018-12-18_160040](https://user-images.githubusercontent.com/28893833/50159243-26dc4880-02ce-11e9-9f91-ee70d27b8e33.png)
-![2018-12-18_160055](https://user-images.githubusercontent.com/28893833/50159245-26dc4880-02ce-11e9-8ece-f259a4d63063.png)
-![2018-12-18_160208](https://user-images.githubusercontent.com/28893833/50159246-26dc4880-02ce-11e9-96b3-4276756a4bb6.png)
-![2018-12-18_160221](https://user-images.githubusercontent.com/28893833/50159247-2774df00-02ce-11e9-8d9b-87ef9dc1b37f.png)
-![2018-12-18_160452](https://user-images.githubusercontent.com/28893833/50159248-2774df00-02ce-11e9-8908-9b4bd494fc74.png)
+![Desktop Version](https://user-images.githubusercontent.com/28893833/50167616-76783f80-02e1-11e9-84ca-1af416fdeac9.png)
+![Desktop Version](https://user-images.githubusercontent.com/28893833/50167617-76783f80-02e1-11e9-8ee1-42d4bfc4c740.png)
+!["JS" Message](https://user-images.githubusercontent.com/28893833/50167619-7710d600-02e1-11e9-8bef-f8c8b2184637.png)
+![Mobile Version](https://user-images.githubusercontent.com/28893833/50159246-26dc4880-02ce-11e9-96b3-4276756a4bb6.png)
+![Mobile Version](https://user-images.githubusercontent.com/28893833/50159247-2774df00-02ce-11e9-8d9b-87ef9dc1b37f.png)
 ## ----------------------------------------
 
 | No.  | Name | Link |
