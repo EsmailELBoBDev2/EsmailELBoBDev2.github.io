@@ -19,7 +19,7 @@
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
 # What's New ?            
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 ## (For Users): 
 1-**Changed Some Of The Format Of The Site!**
 
@@ -70,3 +70,4 @@ or
 ## ----------------------------------------
 
 # Thx For Used My Codes :smiley:
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
