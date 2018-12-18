@@ -38,8 +38,6 @@ body {
   cursor: pointer;
 }
 
-.body {}
-
 #photo {
   display: flex;
   justify-content: center;
