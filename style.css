@@ -18,13 +18,21 @@ body {
   cursor: pointer;
 }
 
-#mode {
+#light-mode {
   display: flex;
   justify-content: center;
   text-decoration: none;
   font-size: 30px;
   cursor: pointer;
-} 
+}  
+
+#dark-mode {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 30px;
+  cursor: pointer;
+}
 
 #photo {
   display: flex;
