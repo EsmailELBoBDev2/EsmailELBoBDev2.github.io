@@ -12,43 +12,30 @@ function ranomWords() {
 function darkmode() {
   document.body.style.backgroundColor = "#282c34";
   document.getElementById("site-name").style.color = "#939caa";
-  document.getElementById("light-mode").style.color = "#939caa";
   document.getElementById("•").style.color = "#939caa";
-  document.getElementById("light-mode").style.visibility = "visible";
   document.getElementById("dark-mode").style.visibility = "hidden";
+  document.getElementById("light-mode").style.cssText = "color: #939caa; visibility: visible;";
   document.getElementById("name").style.color = "#939caa";
   document.getElementById("random").style.color = "#939caa";
-  let socialMedia = document.querySelectorAll(".fa");
-  socialMedia[0].style.color = "#939caa";
-  socialMedia[1].style.color = "#939caa";
-  socialMedia[2].style.color = "#939caa";
-  socialMedia[3].style.color = "#939caa";
-  socialMedia[4].style.color = "#939caa";
+  document.getElementById("socialmedia").style.cssText = "color: #939caa; background-color: #282c34; border-color: white;";
   document.getElementById("coded").style.color = "#939caa";
   document.getElementById("with").style.color = "#939caa";
   document.getElementById("love").style.color = "#939caa";
   document.getElementById("by").style.color = "#939caa";
   document.getElementById("my-name").style.color = "#939caa";
 }
-
 ranomWords();
 darkmode();
 
 function lightmode() {
   document.body.style.backgroundColor = "white";
   document.getElementById("site-name").style.color = "black";
-  document.getElementById("dark-mode").style.color = "black";
   document.getElementById("•").style.color = "black";
-  document.getElementById("dark-mode").style.visibility = "visible";
   document.getElementById("light-mode").style.visibility = "hidden";
+  document.getElementById("dark-mode").style.cssText = "color: black; visibility: visible;";
   document.getElementById("name").style.color = "black";
   document.getElementById("random").style.color = "black";
-  let socialMedia = document.querySelectorAll(".fa");
-  socialMedia[0].style.color = "black";
-  socialMedia[1].style.color = "black";
-  socialMedia[2].style.color = "black";
-  socialMedia[3].style.color = "black";
-  socialMedia[4].style.color = "black";
+  document.getElementById("socialmedia").style.cssText = "color: black; background-color: white; border-color: blue;";
   document.getElementById("coded").style.color = "black";
   document.getElementById("with").style.color = "black";
   document.getElementById("love").style.color = "black";

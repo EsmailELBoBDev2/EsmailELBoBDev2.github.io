@@ -60,35 +60,21 @@ body {
   margin-bottom: 5px;
   font-weight: 500;
   margin-top: 20px;
-  text-align: center;
-}
-
-.fa {
-  text-decoration: none;
-  color: #939caa;
-  margin-top: 30px;
 }
 
 .social-media {
   display: flex;
   justify-content: center;
-  font-size: 50px;
+  margin-top: 20px;
 }
 
-#github {
-  margin-right: 20px;
-}
-
-#gitlab {
-  margin-right: 20px;
-}
-
-#reddit {
-  margin-right: 20px;
-}
-
-#spotify {
-  margin-right: 20px;
+#socialmedia {
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+  background-color: #282c34;
+  cursor: pointer;
 }
 
 .footer {
@@ -115,6 +101,5 @@ body {
   font-weight: 1000;
   font-size: 25px;
   color: #939caa;
-  text-decoration: none;
   cursor: pointer;
 }

@@ -18,13 +18,13 @@
 | 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
-# What's New ?            
+# What's New ?                      
 
 ## (For Users): 
-1-**Changed Some Of The Format Of The Site!**
+1-**Added New Way To See My Social Media** *in other words, i added new page*
 
 ## (For Devs): 
-1-**Improved, Changed & Played In Codes** *Again*
+1-**Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
 # How To Install
 

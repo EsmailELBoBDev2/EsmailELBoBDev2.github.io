@@ -4,19 +4,18 @@ body {
   margin-right: 0px;
   margin-bottom: 0px;
   background-color: #282c34;
+  text-align: center;
 }
 
 .header {
   display: flex;
   justify-content: center;
-  margin-top: 0px;
 }
 
 #site-name {
   text-decoration: none;
   font-weight: 700;
   font-size: 50px;
-  cursor: pointer;
   color: #939caa;
 }
 
@@ -30,9 +29,8 @@ body {
   justify-content: center;
   text-decoration: none;
   font-size: 30px;
-  cursor: pointer;
   color: #939caa;
-}  
+}
 
 #light-mode:hover {
   color: white;
@@ -42,7 +40,7 @@ body {
 #photo {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 #name {
@@ -55,54 +53,40 @@ body {
   color: #939caa;
 }
 
-#sub {
+#random {
   display: flex;
   justify-content: center;
   font-size: 30px;
   margin-bottom: 5px;
   font-weight: 500;
   margin-top: 20px;
-  text-align: center;
   color: #939caa;
-}
-
-.fa {
-  text-decoration: none;
-  color: #939caa;
-  margin-top: 30px;
-}
-
-.fa:hover {
-  color: white;
-  cursor: pointer;
 }
 
 .social-media {
   display: flex;
   justify-content: center;
   font-size: 50px;
+  margin-top: 10px;
 }
 
-#github {
-  margin-right: 20px;
+#socialmedia {
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+  background-color: #282c34;
 }
 
-#gitlab {
-  margin-right: 20px;
-}
-
-#reddit {
-  margin-right: 20px;
-}
-
-#spotify {
-  margin-right: 20px;
+#socialmedia:hover {
+  color: white;
+  cursor: pointer;
 }
 
 .footer {
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 10px;
   font-size: 20px;
   text-decoration: none;
