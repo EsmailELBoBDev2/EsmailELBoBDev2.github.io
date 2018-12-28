@@ -38,7 +38,7 @@
 ## ----------------------------------------
 # Downloads
 
-**The Project**(*Source Code* **,****.rar*): ***https://bit.ly/2LgPJfh*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+**The Project**(*Source Code * **,** **.rar*): ***https://bit.ly/2LgPJfh*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 **SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
