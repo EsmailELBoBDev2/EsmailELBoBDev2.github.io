@@ -33,13 +33,12 @@
 4-**Open Your Text Editor & Drag & Drop My Project's Files** (*Drag & Drop* **Index.html** *As Example*)
 ## ----------------------------------------
 # Downloads
-**The Project**(*Source Code*. *.rar*): ***https://bit.ly/2LgPJfh*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+**The Project**(*Source Code*. *.rar*): ***https://bit.ly/2LgPJfh***
 
-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
+**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd***
+**Visual Studio Code**(*.exe*)(*Code Editor*): ***https://bit.ly/1KvI3PL***
 
-**Visual Studio Code**(*.exe*)(*Code Editor*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
-
-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
+**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o***
 ## ----------------------------------------
 # Preview/Demo:
 1-**The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbobdev2.github.io/my-personal-website/***
