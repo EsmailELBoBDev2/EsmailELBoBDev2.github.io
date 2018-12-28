@@ -38,13 +38,13 @@
 ## ----------------------------------------
 # Downloads
 
-1-**The Project**(*Source Code* **,****.rar*): ***https://bit.ly/2LgPJfh*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
+**The Project**(*Source Code* **,****.rar*): ***https://bit.ly/2LgPJfh*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
-2-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
+**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
 
-3-**Visual Studio Code**(*.exe*)(*Code Editor*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
+**Visual Studio Code**(*.exe*)(*Code Editor*): ***https://bit.ly/1KvI3PL*** (***Uploaded On Microsoft Servers***)
 
-4-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
+**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o*** (***Uploaded On Atom/Github Servers***)
 ## ----------------------------------------
 # Preview/Demo:
 1-**The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbobdev2.github.io/my-personal-website/***
