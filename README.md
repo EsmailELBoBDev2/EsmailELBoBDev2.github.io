@@ -7,7 +7,7 @@
 !["JS" Message](https://user-images.githubusercontent.com/28893833/50167616-76783f80-02e1-11e9-84ca-1af416fdeac9.png)
 ## ----------------------------------------
 
-| No.  | Name | Link |
+| #  | Name | Link |
 | ------------- | ------------- | ------------- |
 | 1  | What's New  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------1  |
 | 2  | How To Install| https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
