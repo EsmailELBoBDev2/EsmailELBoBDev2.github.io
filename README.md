@@ -62,7 +62,7 @@
 ## ----------------------------------------
 # My Other Projects
 
-**https://github.com/EsmailELBoBDev2?tab=repositories**
+**https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
 ## ----------------------------------------
 
 # Thx For Used My Codes :smiley:
