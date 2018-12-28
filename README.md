@@ -1,12 +1,10 @@
 # Photos from the project
-
 ![Desktop Version](https://user-images.githubusercontent.com/28893833/50167617-76783f80-02e1-11e9-8ee1-42d4bfc4c740.png)
 ![Desktop Version](https://user-images.githubusercontent.com/28893833/50167619-7710d600-02e1-11e9-8bef-f8c8b2184637.png)
 ![Mobile Version](https://user-images.githubusercontent.com/28893833/50159246-26dc4880-02ce-11e9-96b3-4276756a4bb6.png)
 ![Mobile Version](https://user-images.githubusercontent.com/28893833/50159247-2774df00-02ce-11e9-8d9b-87ef9dc1b37f.png)
 !["JS" Message](https://user-images.githubusercontent.com/28893833/50167616-76783f80-02e1-11e9-84ca-1af416fdeac9.png)
 ## ----------------------------------------
-
 | #  | Name | Link |
 | ------------- | ------------- | ------------- |
 | 1  | What's New  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------1  |
@@ -19,7 +17,6 @@
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
 # What's New ?                      
-
 ## (For Users): 
 1-**Added New Way To See My Social Media** *in other words, i added new page*
 
@@ -27,7 +24,6 @@
 1-**Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
 # How To Install
-
 1-**Download Project Files**: *https://bit.ly/2LgPJfh* (*Remove* **readme.md** *&* **CNAME** *files*)
 
 2-**Download Code Editor** (*Skip This, If You Already Have One*): *https://bit.ly/1bR8d2o*
@@ -37,7 +33,6 @@
 4-**Open Your Text Editor & Drag & Drop My Project's Files** (*Drag & Drop* **Index.html** *As Example*)
 ## ----------------------------------------
 # Downloads
-
 **The Project**(*Source Code*. *.rar*): ***https://bit.ly/2LgPJfh*** (***Uploaded By Me***) (***Uploaded On Github Servers***)
 
 **SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd*** (***Uploaded on SublimeText Servers***)
@@ -57,13 +52,9 @@
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
 ## ----------------------------------------
 # Supporters
-
 **Support Me To Add Your Name Here** :stuck_out_tongue:
 ## ----------------------------------------
 # My Other Projects
-
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
 ## ----------------------------------------
-
 # Thx For Used My Codes :smiley:
-
