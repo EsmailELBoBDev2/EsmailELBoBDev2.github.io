@@ -20,6 +20,6 @@ function lightmode() {
   document.getElementById("back").style.cssText = "color: black; background-color: white; border-color: blue;";
 }
 
-function wirePopup() {
-  alert("My Wire Username: @esmailelbob");
+function cryptocatPopup() {
+  alert("My Cryptocat Username: esmailelbob");
 }

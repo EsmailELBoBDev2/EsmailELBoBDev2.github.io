@@ -44,12 +44,12 @@ body {
   font-size: 50px;
 }
 
-#wire {
+#cryptocat {
   text-decoration: none;
   color: black;
 }
 
-#wire:hover {
+#cryptocat:hover {
   cursor: pointer;
   color: blue;
 }

@@ -18,7 +18,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1-**Added New Way To See My Social Media** *in other words, i added new page*
+1-**Updated My Social Media Accounts**
 
 ## (For Devs): 
 1-**Edited + Improved HTML, CSS & JS**
