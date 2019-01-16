@@ -20,8 +20,12 @@
 ## (For Users): 
 1-**Updated My Social Media Accounts**
 
+2-**Removed** *None JS* **Version**
+
 ## (For Devs): 
 1-**Edited + Improved HTML, CSS & JS**
+
+2-**Removed Files**
 ## ----------------------------------------
 # How To Install
 1-**Download Project Files**: *https://bit.ly/2LgPJfh* (*Remove* **readme.md** *&* **CNAME** *files*)
