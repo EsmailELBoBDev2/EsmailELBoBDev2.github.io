@@ -45,12 +45,12 @@ body {
   font-size: 50px;
 }
 
-#cryptocat {
+#jabber {
   text-decoration: none;
   color: white;
 }
 
-#cryptocat:hover {
+#jabber:hover {
   cursor: pointer;
   color: white;
 }
