@@ -4,7 +4,7 @@ function darkmode() {
   document.getElementById("•").style.color = "#939caa";
   document.getElementById("dark-mode").style.visibility = "hidden";
   document.getElementById("light-mode").style.cssText = "color: #939caa; visibility: visible;";
-  document.getElementById("cryptocat").style.color = "white";
+  document.getElementById("jabber").style.color = "white";
   document.getElementById("back").style.cssText = "color: #939caa; background-color: #282c34; border-color: white; ";
 
 }
@@ -16,7 +16,7 @@ function lightmode() {
   document.getElementById("•").style.color = "black";
   document.getElementById("light-mode").style.visibility = "hidden";
   document.getElementById("dark-mode").style.cssText = "color: black; visibility: visible;";
-  document.getElementById("cryptocat").style.color = "black";
+  document.getElementById("jabber").style.color = "black";
   document.getElementById("back").style.cssText = "color: black; background-color: white; border-color: blue;";
 }
 
