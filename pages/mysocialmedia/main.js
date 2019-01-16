@@ -20,6 +20,6 @@ function lightmode() {
   document.getElementById("back").style.cssText = "color: black; background-color: white; border-color: blue;";
 }
 
-function cryptocatPopup() {
+function jabberPopup() {
   alert("My XMPP/Jabber Username: esmailelbob@jab.im <br> My OTR Fingerprint: 600A2A25 894982CF 0AC47D47 B87A3627 62FAEB15");
 }
