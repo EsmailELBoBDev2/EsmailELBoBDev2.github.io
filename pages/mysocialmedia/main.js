@@ -21,5 +21,5 @@ function lightmode() {
 }
 
 function jabberPopup() {
-  alert("My XMPP/Jabber Username: esmailelbob@anonym.im \nMy OTR Fingerprint: 242DC9EE F7C09193 CD6B3A14 9AA532DC 6FA17DB8");
+  alert("My XMPP/Jabber Username: esmailelbob@chatserver.space \nMy OMEMO Fingerprint: BBC6408D C12BEC96 C4874E04 0D6B6426 3CFC9D8D 858806CC 24349FB3 40BB7068");
 }
