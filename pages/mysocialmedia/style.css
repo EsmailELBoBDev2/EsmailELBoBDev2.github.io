@@ -1,0 +1,105 @@
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 0px;
+}
+
+#site-name {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.mods {
+  display: flex;
+  justify-content: center;
+}
+
+#light-mode {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+#• {
+  font-size: 30px;
+}
+
+#dark-mode {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.social-media {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  font-size: 50px;
+}
+
+#jabber {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+#reddit {
+  cursor: pointer;
+  text-decoration: none;
+  color: orange;
+}
+
+#pixelfed {
+  cursor: pointer;
+  text-decoration: none;
+  color: purple;
+}
+
+#mastodon {
+  cursor: pointer;
+  text-decoration: none;
+  color: darkblue;
+}
+
+#paypal {
+  cursor: pointer;
+  text-decoration: none;
+  color: blue;
+}
+
+#spotify {
+  cursor: pointer;
+  text-decoration: none;
+  color: green;
+}
+
+#github {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+#gitlab {
+  cursor: pointer;
+  text-decoration: none;
+  color: orange;
+}
+
+#back {
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+  background-color: #282c34;
+  cursor: pointer;
+  text-decoration: underline;
+  margin-top: 20px;
+}
