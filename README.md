@@ -18,39 +18,35 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1-**Updated My Social Media Accounts**
+1. **Updated My Social Media Accounts**
 
-2-**Removed** *None JS* **Version**
+2. **Removed** *None JS* **Version**
 
 ## (For Devs): 
-1-**Edited + Improved HTML, CSS & JS**
+1. **Edited + Improved HTML, CSS & JS**
 
-2-**Removed Files**
+2. **Removed Files**
 ## ----------------------------------------
-# How To Install
-1-**Download Project Files**: *https://bit.ly/2LgPJfh* (*Remove* **readme.md** *&* **CNAME** *files*)
+# How To Edit Codes
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*Remove* **readme.md** *&* **CNAME** *files*)
 
-2-**Download Code Editor** (*Skip This, If You Already Have One*): *https://bit.ly/1bR8d2o*
+2. **Download Code Editor** (*Skip This, If You Already Have One*): *https://1n.pm/pE6Kt*
 
-3-**Extract Files** (*On Dektop As Example*)
+3. **Extract Files** (*On Dektop As Example*)
 
-4-**Open Your Text Editor & Drag & Drop My Project's Files** (*Drag & Drop* **Index.html** *As Example*)
+4. **Open Your Text Editor & Drag & Drop My Project's Files** (*Drag & Drop* **Index.html** *As Example*)
 ## ----------------------------------------
 # Downloads
-**The Project**(*Source Code*. *.rar*): ***https://bit.ly/2LgPJfh***
+**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git`
 
-**SublimeText**(*.exe*)(*Code Editor*): ***https://bit.ly/1SuiMgd***
+**SublimeText**(*Code Editor*): ***https://1n.pm/tApoD***
 
-**Visual Studio Code**(*.exe*)(*Code Editor*): ***https://bit.ly/1KvI3PL***
+**Visual Studio Code**(*Code Editor*): ***https://1n.pm/ATeKV***
 
-**Atom**(*.exe*)(*Code Editor*): ***https://bit.ly/1bR8d2o***
+**Atom**(*Code Editor*): ***https://1n.pm/pE6Kt***
 ## ----------------------------------------
 # Preview/Demo:
-1-**The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbobdev2.github.io/my-personal-website/***
-
-2-*Dat://* **Project Version**: `dat://esmailelbob.hashbase.io` *OR* ***https://esmailelbob.hashbase.io***
-
-3-**My SandBox**: ***http://esmailelbobpro.000webhostapp.com/***
+**The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbobdev2.github.io/my-personal-website/***
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
