@@ -93,12 +93,6 @@ body {
   color: orange;
 }
 
-#email {
-  cursor: pointer;
-  text-decoration: none;
-  color: purble;
-}
-
 #back {
   width: 313px;
   height: 59px;
