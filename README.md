@@ -1,6 +1,6 @@
 # Photos from the project
-![Desktop Version](https://user-images.githubusercontent.com/28893833/50167617-76783f80-02e1-11e9-8ee1-42d4bfc4c740.png)
-![Mobile Version](https://user-images.githubusercontent.com/28893833/50159246-26dc4880-02ce-11e9-96b3-4276756a4bb6.png)
+![2019-01-20_224547](https://user-images.githubusercontent.com/28893833/51444804-3bfd2a80-1d05-11e9-9b0f-d390634aa2ec.png)
+![2019-01-20_224522](https://user-images.githubusercontent.com/28893833/51444806-3bfd2a80-1d05-11e9-8c33-383ca86f663b.png)
 ## ----------------------------------------
 | #  | Name | Link |
 | ------------- | ------------- | ------------- |
