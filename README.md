@@ -13,7 +13,7 @@
 | 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
 | 5  | Support  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
-| 7  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/master/LICENSE.md |
+| 7  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/license/LICENSE |
 | 8  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
 | 9  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
