@@ -13,8 +13,9 @@
 | 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
 | 5  | Support  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
-| 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
-| 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
+| 7  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/master/LICENSE.md |
+| 8  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
+| 9  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
