@@ -1,6 +1,6 @@
 # Photos from the project
-![2019-01-20_224547](https://user-images.githubusercontent.com/28893833/51444804-3bfd2a80-1d05-11e9-9b0f-d390634aa2ec.png)
-![2019-01-20_224522](https://user-images.githubusercontent.com/28893833/51444806-3bfd2a80-1d05-11e9-8c33-383ca86f663b.png)
+![Main Page - Black Mode](https://user-images.githubusercontent.com/28893833/51444806-3bfd2a80-1d05-11e9-8c33-383ca86f663b.png)
+![My Social Media Accounts - White Mode](https://user-images.githubusercontent.com/28893833/51444804-3bfd2a80-1d05-11e9-9b0f-d390634aa2ec.png)
 ## ----------------------------------------
 | #  | Name | Link |
 | ------------- | ------------- | ------------- |
