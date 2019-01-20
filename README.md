@@ -26,7 +26,7 @@
 2. **Removed Files**
 ## ----------------------------------------
 # How To Edit Codes
-1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **readme.md** *,* **LICENSE** *&* **CNAME** *files*)
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **readme.md** *,*  **LICENSE** *&* **CNAME** *files*)
 
 2. **Download Code Editor** (*Skip This, If You Already Have One*): *https://1n.pm/pE6Kt*
 
