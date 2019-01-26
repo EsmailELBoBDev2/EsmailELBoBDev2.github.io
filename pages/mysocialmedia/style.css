@@ -93,6 +93,12 @@ body {
   color: orange;
 }
 
+#wire {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
 #back {
   width: 313px;
   height: 59px;
