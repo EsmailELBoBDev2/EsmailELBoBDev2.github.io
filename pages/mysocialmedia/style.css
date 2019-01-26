@@ -40,7 +40,7 @@ body {
 
 .social-media {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   margin-top: 20px;
   font-size: 50px;
 }
