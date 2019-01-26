@@ -51,22 +51,18 @@ body {
   color: white;
 }
 
+
+#wire {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+
 #reddit {
   cursor: pointer;
   text-decoration: none;
   color: orange;
-}
-
-#pixelfed {
-  cursor: pointer;
-  text-decoration: none;
-  color: purple;
-}
-
-#mastodon {
-  cursor: pointer;
-  text-decoration: none;
-  color: darkblue;
 }
 
 #paypal {
@@ -91,12 +87,6 @@ body {
   cursor: pointer;
   text-decoration: none;
   color: orange;
-}
-
-#wire {
-  cursor: pointer;
-  text-decoration: none;
-  color: white;
 }
 
 #back {
