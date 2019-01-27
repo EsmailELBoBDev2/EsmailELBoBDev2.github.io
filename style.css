@@ -33,6 +33,10 @@ body {
   font-size: 30px;
 }
 
+#•2 {
+  font-size: 30px;
+}
+
 #dark-mode {
   font-size: 30px;
   cursor: pointer;
@@ -98,6 +102,13 @@ body {
 }
 
 #my-name {
+  font-weight: 1000;
+  font-size: 25px;
+  color: #939caa;
+  cursor: pointer;
+}
+
+#my-mail {
   font-weight: 1000;
   font-size: 25px;
   color: #939caa;

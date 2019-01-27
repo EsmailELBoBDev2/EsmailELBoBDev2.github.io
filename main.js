@@ -23,6 +23,8 @@ function darkmode() {
   document.getElementById("love").style.color = "#939caa";
   document.getElementById("by").style.color = "#939caa";
   document.getElementById("my-name").style.color = "#939caa";
+  document.getElementById("•2").style.color = "#939caa";
+  document.getElementById("my-mail").style.color = "#939caa";
 }
 ranomWords();
 darkmode();
@@ -41,4 +43,6 @@ function lightmode() {
   document.getElementById("love").style.color = "black";
   document.getElementById("by").style.color = "black";
   document.getElementById("my-name").style.color = "blue";
+  document.getElementById("•2").style.color = "black";
+  document.getElementById("my-mail").style.color = "blue";
 }
