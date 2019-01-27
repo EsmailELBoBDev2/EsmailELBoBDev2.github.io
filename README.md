@@ -18,12 +18,10 @@
 ## (For Users): 
 1. **Updated My Social Media Accounts**
 
-2. **Removed** *None JS* **Version**
+2. **Added My E-mail Address With My PGP Public Key In End Of The Website** *After My Name*
 
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
-
-2. **Removed Files**
 ## ----------------------------------------
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **README.md** *,* **LICENSE** *&* **CNAME** *files*)
