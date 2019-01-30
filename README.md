@@ -16,10 +16,9 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Updated My Social Media Accounts**
+1. **Changed** *My Social Media* **Page** **To** *Contact Me* **Page**
 
-2. **Added My E-mail Address With My PGP Public Key In End Of The Website** *After My Name*
-
+2. **Changed Words & Style**
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
