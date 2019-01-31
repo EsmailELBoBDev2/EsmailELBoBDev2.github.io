@@ -23,7 +23,7 @@
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
 # How To Edit Codes
-1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **README.md** *,* **LICENSE** *&* **CNAME** *files*)
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **README.md** *,* **COPYING** *&* **CNAME** *files*)
 
 2. **Download Code Editor** (*Skip This, If You Already Have One*): *https://yerl.org/5PJau*
 
