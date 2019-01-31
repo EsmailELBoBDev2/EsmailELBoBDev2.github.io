@@ -25,7 +25,7 @@
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **README.md** *,* **LICENSE** *&* **CNAME** *files*)
 
-2. **Download Code Editor** (*Skip This, If You Already Have One*): *https://1n.pm/pE6Kt*
+2. **Download Code Editor** (*Skip This, If You Already Have One*): *https://yerl.org/5PJau*
 
 3. **Extract Files** (*On Dektop As Example*)
 
@@ -34,11 +34,11 @@
 # Downloads
 **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git`
 
-**SublimeText**(*Code Editor*): ***https://1n.pm/tApoD***
+**SublimeText**(*Code Editor*): ***https://yerl.org/hHgeb***
 
-**Visual Studio Code**(*Code Editor*): ***https://1n.pm/ATeKV***
+**Visual Studio Code**(*Code Editor*): ***https://yerl.org/AHuvV***
 
-**Atom**(*Code Editor*): ***https://1n.pm/pE6Kt***
+**Atom**(*Code Editor*): ***https://yerl.org/5PJau***
 ## ----------------------------------------
 # Preview/Demo:
 **The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbobdev2.github.io/my-personal-website/***
