@@ -1,6 +1,6 @@
 # Photos from the project
 ![2019-02-01_115920](https://user-images.githubusercontent.com/28893833/52116109-03205800-2619-11e9-9743-63b31eb7f418.png)
-![2019-02-01_115950](https://user-images.githubusercontent.com/28893833/52116110-03205800-2619-11e9-8359-a49df4415e58.png)
+![2019-02-01_115950](https://user-images.githubusercontent.com/28893833/52116196-3a8f0480-2619-11e9-9f2f-bb1da816adaf.png)
 ## ----------------------------------------
 | #  | Name | Link |
 | ------------- | ------------- | ------------- |
