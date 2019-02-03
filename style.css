@@ -59,13 +59,13 @@ body {
   margin-top: 20px;
 }
 
-.contact {
+.accounts {
   display: flex;
   justify-content: center;
   margin-top: 20px;
 }
 
-#contact {
+#accounts {
   width: 313px;
   height: 59px;
   font-size: 35px;
