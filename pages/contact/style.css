@@ -46,6 +46,18 @@ body {
   color: darkcyan;
 }
 
+#minds {
+  cursor: pointer;
+  text-decoration: none;
+  color: yellow;
+}
+
+#reddit {
+  cursor: pointer;
+  text-decoration: none;
+  color: orange;
+}
+
 #jabber {
   cursor: pointer;
   text-decoration: none;
@@ -58,16 +70,22 @@ body {
   color: white;
 }
 
-#reddit {
+#github {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+#peertube {
   cursor: pointer;
   text-decoration: none;
   color: orange;
 }
 
-#github {
+#dtube {
   cursor: pointer;
   text-decoration: none;
-  color: black;
+  color: red;
 }
 
 #gitlab {
@@ -80,7 +98,7 @@ body {
   cursor: pointer;
   text-decoration: none;
   color: white;
-  font-size:40px;
+  font-size: 40px;
 }
 
 #back {

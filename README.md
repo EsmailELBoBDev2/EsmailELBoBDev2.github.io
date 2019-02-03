@@ -16,9 +16,9 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Changed** *My Social Media* **Page** **To** *Contact Me* **Page**
+1. **Added/Fixed My** *Contact* **Page**
 
-2. **Changed Words & Style**
+2. **Changed Style**
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
