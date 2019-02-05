@@ -107,6 +107,17 @@ body {
   font-size: 40px;
 }
 
+#, {
+  font-size: 30px;
+}
+
+#my-pgp{
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-size: 40px;
+}
+
 #back {
   width: 313px;
   height: 59px;

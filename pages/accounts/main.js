@@ -7,6 +7,8 @@ function darkmode() {
   document.getElementById("jabber").style.color = "white";
   document.getElementById("wire").style.color = "white";
   document.getElementById("my-mail").style.color = "white";
+  document.getElementById(",").style.color = "#939caa";
+  document.getElementById("my-pgp").style.color = "white";
   document.getElementById("back").style.cssText = "color: #939caa; background-color: #282c34; border-color: white; ";
 
 }
@@ -21,6 +23,8 @@ function lightmode() {
   document.getElementById("jabber").style.color = "black";
   document.getElementById("wire").style.color = "black";
   document.getElementById("my-mail").style.color = "black";
+  document.getElementById(",").style.color = "black";
+  document.getElementById("my-pgp").style.color = "black";
   document.getElementById("back").style.cssText = "color: black; background-color: white; border-color: blue;";
 }
 
