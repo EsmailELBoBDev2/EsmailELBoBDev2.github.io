@@ -16,11 +16,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Added/Fixed My** *Contact* **Page**
-
-2. **Changed Style**
-
-3. **Changed** *Contact Page* **Name To** *My Accounts Page*
+1. **Added** *404* **Page**
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
