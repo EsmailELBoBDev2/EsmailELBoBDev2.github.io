@@ -16,7 +16,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Removed** *404* **Page**
+1. **Edited** *My Accounts* **Page**
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------

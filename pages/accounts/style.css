@@ -46,10 +46,16 @@ body {
   color: darkcyan;
 }
 
-#minds {
+#mastodon {
   cursor: pointer;
   text-decoration: none;
-  color: yellow;
+  color: darkblue;
+}
+
+#pixelfed {
+  cursor: pointer;
+  text-decoration: none;
+  color: purple;
 }
 
 #reddit {
@@ -70,10 +76,10 @@ body {
   color: white;
 }
 
-#github {
+#minds {
   cursor: pointer;
   text-decoration: none;
-  color: black;
+  color: yellow;
 }
 
 #peertube {
@@ -82,10 +88,10 @@ body {
   color: orange;
 }
 
-#dtube {
+#github {
   cursor: pointer;
   text-decoration: none;
-  color: red;
+  color: black;
 }
 
 #gitlab {
