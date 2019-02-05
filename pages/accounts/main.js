@@ -65,6 +65,6 @@ function gitlabPopup() {
 }
 
 function myEmail() {
-window.open('pages/email/my-email.txt');
-window.open('pages/email/my-pgp-public-key.txt');
+window.open('pages/email/my-email.html');
+window.open('pages/email/my-pgp-public-key.html');
 }
