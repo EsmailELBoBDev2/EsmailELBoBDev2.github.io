@@ -44,60 +44,70 @@ body {
   cursor: pointer;
   text-decoration: none;
   color: darkcyan;
+  margin-right: 20px;
 }
 
 #mastodon {
   cursor: pointer;
   text-decoration: none;
   color: darkblue;
+  margin-right: 20px;
 }
 
 #pixelfed {
   cursor: pointer;
   text-decoration: none;
   color: purple;
+  margin-right: 20px;
 }
 
 #reddit {
   cursor: pointer;
   text-decoration: none;
   color: orange;
+  margin-right: 20px;
 }
 
 #jabber {
   cursor: pointer;
   text-decoration: none;
   color: white;
+  margin-right: 20px;
 }
 
 #wire {
   cursor: pointer;
   text-decoration: none;
   color: white;
+  margin-right: 20px;
 }
 
 #minds {
   cursor: pointer;
   text-decoration: none;
   color: yellow;
+  margin-right: 20px;
 }
 
 #peertube {
   cursor: pointer;
   text-decoration: none;
   color: orange;
+  margin-right: 20px;
 }
 
 #github {
   cursor: pointer;
   text-decoration: none;
   color: black;
+  margin-right: 20px;
 }
 
 #gitlab {
   cursor: pointer;
   text-decoration: none;
   color: darkorange;
+  margin-right: 20px;
 }
 
 #my-mail {
@@ -105,6 +115,7 @@ body {
   text-decoration: none;
   color: white;
   font-size: 40px;
+  margin-right: 20px;
 }
 
 #back {
