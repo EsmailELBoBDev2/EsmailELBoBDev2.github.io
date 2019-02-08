@@ -24,22 +24,6 @@ function lightmode() {
   document.getElementById("back").style.cssText = "color: black; background-color: white; border-color: blue;";
 }
 
-function mewePopup() {
-  alert("My Mewe Username: Esmail EL BoB");
-}
-
-function mastodonPopup() {
-  alert("My Mastodon Username: @esmailelbob@mastodon.xyz");
-}
-
-function pixelfedPopup() {
-  alert("My Pixelfed Username: esmailelbob");
-}
-
-function redditPopup() {
-  alert("My Reddit Username: EsmailELBoB");
-}
-
 function jabberPopup() {
   alert("My Jabber Username: esmailelbob@chatserver.space\n\nMy OMEMO Fingerprint: BBC6408D C12BEC96 C4874E04 0D6B6426 3CFC9D8D 858806CC 24349FB3 40BB7068");
 }
@@ -48,23 +32,13 @@ function wirePopup() {
   alert("My Wire Username: esmailelbob");
 }
 
-function mindsPopup() {
-  alert("My Minds Username: esmailelbob");
-}
-
-function peertubePopup() {
-  alert("My PeerTube Channel Name: esmailelbob");
-}
-
-function githubPopup() {
-  alert("My Github Username: EsmailELBoBDev2");
-}
-
-function gitlabPopup() {
-  alert("My Gitlab Username: EsmailELBoBDev2");
-}
-
 function myEmail() {
-window.open('pages/email/my-email.html');
-window.open('pages/email/my-pgp-public-key.html');
+  if (confirm("Want Also See My PGP Public Key ?\n\n(Don't Forget To Allow Pop-ups)")) {
+
+    window.open("https://ghostbin.com/paste/6nssn/raw");
+    window.open("https://ghostbin.com/paste/ew23u/raw");
+  } else {
+    window.open("https://ghostbin.com/paste/6nssn/raw");
+  }
+
 }
