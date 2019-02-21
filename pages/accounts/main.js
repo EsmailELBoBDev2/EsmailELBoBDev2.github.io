@@ -25,7 +25,7 @@ function lightmode() {
 }
 
 function jabberPopup() {
-  alert("My Jabber Username: esmailelbob@chatserver.space\n\nMy OMEMO Fingerprint: 01908ad9a1c70e50aa28edcddd6ff4e2d74141be533f4d9cbc5a0a28bee77e70");
+  alert("My Jabber Username: esmailelbob@chatserver.space\n\nMy OMEMO Fingerprint: 78d41f668f8fca27607595c38bb4527f0203a286b953b4d1a3de1d695d1deb70");
 }
 
 function wirePopup() {
