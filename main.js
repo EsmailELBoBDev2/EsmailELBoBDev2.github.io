@@ -3,11 +3,20 @@ function ranomWords() {
     "Hey, User!",
     "Nothing Here! <br> Close This Website",
     "Don't Look Behind You",
-    "Happy New Year!"
+    "Oh You Broke It!"
   ];
   let randomItem = Math.floor(Math.random() * randomwords.length);
   document.getElementById("random").innerHTML = randomwords[randomItem];
+
+
+  if (randomItem == 3) {
+    document.getElementById("site-name").innerHTML = "qoq ˥Ǝ lᴉɐɯsƎ";
+    document.getElementById("dark-mode").innerHTML = "ǝpoW ʇɥƃᴉ˥";
+    document.getElementById("light-mode").innerHTML = "ǝpoW ʞɹɐp";
+    document.getElementById("name").innerHTML = "pǝɯɯɐɥoW lᴉɐɯsI";
+  }
 }
+
 
 function darkmode() {
   document.body.style.backgroundColor = "#282c34";

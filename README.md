@@ -16,9 +16,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Edited** *My Accounts* **Page**
-
-2. **No More** *3rd Parties* **Links In My Website**
+1. **Added New Mod** (*Stranger Things*)
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
