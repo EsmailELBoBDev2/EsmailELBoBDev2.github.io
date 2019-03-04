@@ -25,7 +25,7 @@ function lightmode() {
 }
 
 function jabberPopup() {
-  alert("My Jabber Username: esmailelbob@404.city);
+  alert("My Jabber Username: esmailelbob@404.city");
 }
 
 function wirePopup() {
