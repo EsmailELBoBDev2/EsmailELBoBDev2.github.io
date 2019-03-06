@@ -16,7 +16,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Added New Mod** (*Stranger Things*)
+1. **Edited Pages**
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------

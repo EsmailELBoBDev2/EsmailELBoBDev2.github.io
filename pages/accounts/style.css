@@ -52,42 +52,11 @@ body {
   margin-top: 20px;
 }
 
-.slot-4 {
-  margin-top: 20px;
-}
-
-#mewe {
-  cursor: pointer;
-  text-decoration: none;
-  color: darkcyan;
-  margin-right: 20px;
-}
-
-#mastodon {
-  cursor: pointer;
-  text-decoration: none;
-  color: darkblue;
-  margin-right: 20px;
-}
-
-#pixelfed {
-  cursor: pointer;
-  text-decoration: none;
-  color: purple;
-  margin-right: 20px;
-}
-
 #reddit {
   cursor: pointer;
   text-decoration: none;
-  color: orange;
-}
-
-#jabber {
-  cursor: pointer;
-  text-decoration: none;
-  color: white;
   margin-right: 20px;
+  color: orange;
 }
 
 #wire {
@@ -128,6 +97,7 @@ body {
   color: white;
   font-size: 40px;
   margin-top: 50px;
+  margin-bottom: 50px;
   display: block;
 }
 
