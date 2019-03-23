@@ -1,7 +1,7 @@
 function ranomWords() {
   let randomwords = [
-    "Hey, User!",
-    "Nothing Here! <br> Close This Website",
+    "Do not be sorry, be better <br> Kratos",
+    "Learn the rules like a pro, so you can break them like an artist <br> Pablo Picasso",
     "Don't Look Behind You",
     "Oh You Broke It!"
   ];
