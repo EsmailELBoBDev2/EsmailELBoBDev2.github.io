@@ -29,7 +29,7 @@ function wirePopup() {
 }
 
 function signalPopup() {
-  alert("My Signal Phone-Number: +13602160658");
+  alert("My Signal Phone-Number: +***");
 }
 
 function myEmail() {
