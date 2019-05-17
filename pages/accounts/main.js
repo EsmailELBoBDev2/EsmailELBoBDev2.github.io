@@ -28,10 +28,6 @@ function wirePopup() {
   alert("My Wire Username: @esmailelbob");
 }
 
-function signalPopup() {
-  alert("My Signal Phone Number: +19152431377");
-}
-
 function myEmail() {
   if (confirm("Want Also See My PGP Public Key ?\n\n(Don't Forget To Allow Pop-ups)")) {
 
