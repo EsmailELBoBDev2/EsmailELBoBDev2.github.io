@@ -31,10 +31,10 @@ function wirePopup() {
 function myEmail() {
   if (confirm("Want Also See My PGP Public Key ?\n\n(Don't Forget To Allow Pop-ups)")) {
 
-    window.open("https://ghostbin.com/paste/6nssn/raw");
-    window.open("https://ghostbin.com/paste/ew23u/raw");
+    window.open("https://bin.privacytools.io/?b76837c18b68d384#1bqZejcYNE+Ja4eIUlHUQaXevdIICRJc9PjjiEFk1tE=");
+    window.open("https://bin.privacytools.io/?333685f063426317#b/jB0zLPZ4GSW9LIw+2eTcz4y1nmzs0FObZHAQ7gebA=");
   } else {
-    window.open("https://ghostbin.com/paste/6nssn/raw");
+    window.open("https://bin.privacytools.io/?b76837c18b68d384#1bqZejcYNE+Ja4eIUlHUQaXevdIICRJc9PjjiEFk1tE=");
   }
 
 }
