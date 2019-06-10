@@ -8,11 +8,9 @@
 | 2  | How To Install| https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
 | 3  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
 | 4  | Preview/Demo  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
-| 5  | Support  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
-| 6  | Supporters  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
-| 7  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/master/COPYING |
-| 8  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
-| 9  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
+| 5  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/master/COPYING |
+| 6  | My Other Projects  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
+| 7  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
@@ -40,12 +38,6 @@
 ## ----------------------------------------
 # Preview/Demo:
 **The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbob.hashbase.io*** *OR* ***dat://esmailelbob.hashbase.io***
-## ----------------------------------------
-# Support
-**Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
-## ----------------------------------------
-# Supporters
-**Support Me To Add Your Name Here** :stuck_out_tongue:
 ## ----------------------------------------
 # My Other Projects
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
