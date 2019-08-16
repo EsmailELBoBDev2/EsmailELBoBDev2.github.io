@@ -1,9 +1,9 @@
 function ranomWords() {
   let randomwords = [
-    "Do not be sorry, be better <br> Kratos",
-    "Learn the rules like a pro, so you can break them like an artist <br> Pablo Picasso",
-    "Don't Look Behind You",
-    "Oh You Broke It!"
+    "Do not be sorry, be better <br> —Kratos",
+    "Learn the rules like a pro, so you can break them like an artist <br> —Pablo Picasso",
+    "Don not Look Behind You",
+    "Oh, You Broke It!"
   ];
   let randomItem = Math.floor(Math.random() * randomwords.length);
   document.getElementById("random").innerHTML = randomwords[randomItem];
