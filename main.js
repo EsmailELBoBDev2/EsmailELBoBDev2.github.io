@@ -3,7 +3,8 @@ function ranomWords() {
     "Do not be sorry, be better <br> —Kratos",
     "Learn the rules like a pro, so you can break them like an artist <br> —Pablo Picasso",
     "Don not Look Behind You",
-    "Oh, You Broke It!"
+    "Oh, You Broke It!",
+	"Give me a fast internet with a strong computer and watch me control the world <br> —Esmail EL BoB"
   ];
   let randomItem = Math.floor(Math.random() * randomwords.length);
   document.getElementById("random").innerHTML = randomwords[randomItem];
