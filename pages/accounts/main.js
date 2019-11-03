@@ -25,16 +25,9 @@ function lightmode() {
 
 
 function wirePopup() {
-  alert("My Wire Username: @esmailelbob");
+  alert("@esmailelbob");
 }
 
 function myEmail() {
-  if (confirm("Want Also See My PGP Public Key ?\n\n(Don't Forget To Allow Pop-ups)")) {
-
-    window.open("https://bin.privacytools.io/?28b988ed41fd8df8#XvuWAdtMU6acxVhmsMc3t56NDODozXq+8NUTN3w1vOc=");
-    window.open("https://bin.privacytools.io/?eb9d522e29f02d5b#pWZty6S4m04UUdhRPHPAKAE3YfWTwcV6j1zCXkhoHxA=");
-  } else {
-    window.open("https://bin.privacytools.io/?28b988ed41fd8df8#XvuWAdtMU6acxVhmsMc3t56NDODozXq+8NUTN3w1vOc=");
-  }
-
+  alert("esmailelbob@pm.me")
 }
