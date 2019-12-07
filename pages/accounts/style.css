@@ -52,11 +52,11 @@ body {
   margin-top: 20px;
 }
 
-#wire {
+#keybase {
   cursor: pointer;
   text-decoration: none;
   margin-right: 20px;
-  color: white;
+  color: #4c8eff;
 }
 
 #minds {
