@@ -3,8 +3,7 @@ function ranomWords() {
     "Do not be sorry, be better <br> —Kratos",
     "Learn the rules like a pro, so you can break them like an artist <br> —Pablo Picasso",
     "Don not Look Behind You",
-    "Oh, You Broke It!",
-	"Give me a fast internet with a strong computer and watch me control the world <br> —Esmail EL BoB"
+    "Oh, You Broke It!"
   ];
   let randomItem = Math.floor(Math.random() * randomwords.length);
   document.getElementById("random").innerHTML = randomwords[randomItem];
@@ -28,6 +27,7 @@ function darkmode() {
   document.getElementById("name").style.color = "#939caa";
   document.getElementById("random").style.color = "#939caa";
   document.getElementById("accounts").style.cssText = "color: #939caa; background-color: #282c34; border-color: white;";
+  document.getElementById("cv").style.cssText = "color: #939caa; background-color: #282c34; border-color: white;";
   document.getElementById("coded").style.color = "#939caa";
   document.getElementById("with").style.color = "#939caa";
   document.getElementById("love").style.color = "#939caa";
@@ -46,6 +46,7 @@ function lightmode() {
   document.getElementById("name").style.color = "black";
   document.getElementById("random").style.color = "black";
   document.getElementById("accounts").style.cssText = "color: black; background-color: white; border-color: blue;";
+  document.getElementById("cv").style.cssText = "color: black; background-color: white; border-color: blue;";
   document.getElementById("coded").style.color = "black";
   document.getElementById("with").style.color = "black";
   document.getElementById("love").style.color = "black";

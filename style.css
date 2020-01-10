@@ -74,6 +74,15 @@ body {
   cursor: pointer;
 }
 
+#cv {
+  width: 313px;
+  height: 59px;
+  font-size: 35px;
+  color: #939caa;
+  background-color: #282c34;
+  cursor: pointer;
+}
+
 .footer {
   display: flex;
   justify-content: center;
