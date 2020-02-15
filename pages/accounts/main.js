@@ -22,5 +22,5 @@ function lightmode() {
 
 
 function myEmail() {
-  alert("esmailelbob@pm.me")
+  alert("contact-work.cyprinoidean@simplelogin.fr")
 }
