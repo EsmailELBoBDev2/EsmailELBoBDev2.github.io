@@ -20,7 +20,3 @@ function lightmode() {
   document.getElementById("back").style.cssText = "color: black; background-color: white; border-color: blue;";
 }
 
-
-function myEmail() {
-  alert("contact-work.cyprinoidean@simplelogin.fr")
-}
