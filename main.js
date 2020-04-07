@@ -209,7 +209,6 @@ function darkmode() {
   document.getElementById("by").style.color = "#939caa";
   document.getElementById("my-name").style.color = "#939caa";
 }
-ranomWords();
 darkmode();
 
 function lightmode() {
