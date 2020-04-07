@@ -14,7 +14,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Added A New Way To Contact With Me** *A Signal Phone Number & It's Not My REAL Phone Tho, LoL*
+1. **Added Fireworks For My Birthday** *LoL*
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
