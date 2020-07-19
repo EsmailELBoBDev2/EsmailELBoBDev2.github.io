@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/esmailelbob
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://esmailelbob.hashbase.io
+  * I am esmailelbob (https://keybase.io/esmailelbob) on keybase.
+  * I have a public key ASCV1BsNcBUYidt5EYSAeEOpgz75V2DdzUt49NK9o8bnHQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012095d41b0d70151889db791184807843a9833ef95760ddcd4b78f4d2bda3c6e71d0a",
+      "host": "keybase.io",
+      "kid": "012095d41b0d70151889db791184807843a9833ef95760ddcd4b78f4d2bda3c6e71d0a",
+      "uid": "e789c6e560d7d56cefeae16336e3b419",
+      "username": "esmailelbob"
+    },
+    "merkle_root": {
+      "ctime": 1575641125,
+      "hash": "47e4b23e83cff7c7a9e921c627740261f347c43184df901202d7d84d218e41ee553901249e77e6fdb8e84a22d35ce8cb391f40b37b88f873d6efbd7fad79a8c6",
+      "hash_meta": "c2ecc6db7c4500fba1eb2f19d3b5cfbc9b75e7a03cb5523d6cf157c8d9124ac0",
+      "seqno": 12506374
+    },
+    "service": {
+      "entropy": "Op6zwoE5UYJZt0eMGo8aRr0M",
+      "hostname": "esmailelbob.hashbase.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575641133,
+  "expire_in": 504576000,
+  "prev": "551ca34a73d9af56c92f1da909507f535b0d157a0f76d50769009a80fb6810a4",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgldQbDXAVGInbeRGEgHhDqYM++Vdg3c1LePTSvaPG5x0Kp3BheWxvYWTESpcCF8QgVRyjSnPZr1bJLx2pCVB/U1sNFXoPdtUHaQCagPtoEKTEIOycnIC9UlZanEfwqFZel+7DnH1IreGyQc6TD8QqfYmtAgHCo3NpZ8RA5OgBgnsNoJLNblgRRprldg3HkRBhodbZugZd6GYTffMg2TkoAevp9NpxFDH3g3kbS+hAsGbHdRWoLOfqxdipAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIInDngCHAKzVKaioSD47aupUDj8vjDdLj5c5g24o0DgNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/esmailelbob
+
+==================================================================
