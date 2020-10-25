@@ -49,7 +49,7 @@
 **Atom**(*Code Editor*): ***https://yerl.org/5PJau***
 ## ----------------------------------------
 # Preview/Demo:
-**The Main Website**: ***https:kutt.it/esmailelbob*** (*I know, It's shrrinked link so i can change the website URL itself at anytime*)
+**The Main Website**: ***https://kutt.it/esmailelbob*** (*I know, It's shrrinked link so i can change the website URL itself at anytime*)
 ## ----------------------------------------
 # My Other Projects
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
