@@ -26,7 +26,7 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Added Fireworks For My Birthday** *LoL*
+1. **Updated the CSS of main page**
 ## (For Devs): 
 1. **Edited + Improved HTML, CSS & JS**
 ## ----------------------------------------
@@ -49,7 +49,7 @@
 **Atom**(*Code Editor*): ***https://yerl.org/5PJau***
 ## ----------------------------------------
 # Preview/Demo:
-**The Main Website**: ***http://esmailelbob.pw*** *OR* ***https://esmailelbob.hashbase.io*** *OR* ***dat://esmailelbob.hashbase.io***
+**The Main Website**: ***https:kutt.it/esmailelbob*** (*I know, It's shrrinked link so i can change the website URL itself at anytime*)
 ## ----------------------------------------
 # My Other Projects
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
