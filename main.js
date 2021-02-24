@@ -1,5 +1,3 @@
-document.getElementById("home").click()
-
 let randomMeme = [
 	"files/memes/149528873_215013626984585_3729308711515613928_n.jpg",
 	"files/memes/149528873_215013626984_37938711515613928_n.png",
