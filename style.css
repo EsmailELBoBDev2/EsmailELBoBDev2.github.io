@@ -1,5 +1,5 @@
 header{
-	left: 25%;
+	left: 20%;
 	text-align: center;
 }
 .hdev{
@@ -18,7 +18,7 @@ header{
 .hdev li{
 	display: inline;
 }
-a.active {
+.hdev a.active {
 	font-style: italic;
 	color: #11141a;
 	text-decoration: underline;
