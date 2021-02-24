@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>Esmail EL BoB's Blogs</title>
+	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
+	<language>en-us</language>
+	<!-- START OF ITEMS -->
+		<item>
+			<title>I use Windows Now (Again)</title>
+			<pubDate>24 Feb 2021 00:00:00 +0000</pubDate>
+			<link>file:///C:/Users/Esmail%20EL%20BoB/Desktop/blogs/fyr.txt</link>
+			<description>Read why i got back to use windows (but not what you think tho)</description>
+		</item>
+		
+		<item>
+			<title>Fuck you reddit</title>
+			<pubDate>24 Feb 2021 00:00:00 +0000</pubDate>
+			<link>file:///C:/Users/Esmail%20EL%20BoB/Desktop/blogs/fyr.txt</link>
+			<description>Read why the i left reddit, for good...</description>
+		</item>		
+	<!-- END OF ITEMS -->
+</channel>
+</rss>

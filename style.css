@@ -1,0 +1,55 @@
+header{
+	left: 25%;
+	text-align: center;
+}
+.hdev{
+	font-size: 20px;
+}
+#name{
+	font-size: 50px;
+	font-weight: 700;
+}
+#bio{
+	font-size: 25px;
+}
+.hdev ul{
+	list-style: none;
+}
+.hdev li{
+	display: inline;
+}
+a.active {
+	font-style: italic;
+	color: #11141a;
+	text-decoration: underline;
+}
+body{
+	background-color: #282c34;
+	color: #939caa;
+}
+body a{
+	color: #939caa;
+	text-decoration: none;
+	font-weight: 700;
+}
+body a:hover{
+	color: #11141a;
+	text-decoration: underline;
+}
+body a:focus{
+  border-width:4px;  
+  border-style:dashed;
+  color: white; 
+}
+.content{
+	font-size: 20px;
+}
+#sm{
+	font-weight: 700;
+}
+#cr {
+	font-weight: 700;
+	text-align: center;
+}
+
+
