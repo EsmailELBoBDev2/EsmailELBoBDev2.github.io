@@ -26,9 +26,9 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Updated the CSS of main page**
+1. **Updated the look, functions and codes of the whole website to try make it more minimal**
 ## (For Devs): 
-1. **Edited + Improved HTML, CSS & JS**
+1. **Edited + Improved (or broke) HTML, CSS & JS**
 ## ----------------------------------------
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **README.md** *&* **COPYING** *files*)
@@ -49,7 +49,7 @@
 **Atom**(*Code Editor*): ***https://yerl.org/5PJau***
 ## ----------------------------------------
 # Preview/Demo:
-**The Main Website**: ***https://kutt.it/esmailelbob*** (*I know, It's shrrinked link so i can change the website URL itself at anytime*)
+**The Main Website**: ***https://esmailelbobdev2.github.io/my-personal-website/blogs/i-use-windows-again.html***
 ## ----------------------------------------
 # My Other Projects
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
