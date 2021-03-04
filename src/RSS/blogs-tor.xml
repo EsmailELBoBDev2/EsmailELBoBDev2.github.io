@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>Esmail EL BoB's Blogs</title>
+	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
+	<language>en-us</language>
+	<!-- START OF ITEMS -->
+		
+		
+		<item>
+			<title>Searching on Myself</title>
+			<pubDate>4 Mar 2021 00:00:00 +0000</pubDate>
+			<link>http://5p3b4cy2pdbxz2t5kkt6h5tfpfhbqrvlg3pvs3rjqttcujin5htdriid.onion/src/blogs/searching-on-myself.html</link>
+			<description>Read how i finally found a way to search on myself and delete (or at least hide) my old online data</description>
+		</item>
+		
+		<item>
+			<title>Fuck You Nvidia</title>
+			<pubDate>28 Feb 2021 00:00:00 +0000</pubDate>
+			<link>http://5p3b4cy2pdbxz2t5kkt6h5tfpfhbqrvlg3pvs3rjqttcujin5htdriid.onion/src/blogs/fuck-you-nvidia.html</link>
+			<description>Read why i nvidia (even more now)</description>
+		</item>
+
+		
+		<item>
+			<title>BTC is hard, i mine XMR now</title>
+			<pubDate>25 Feb 2021 00:00:00 +0000</pubDate>
+			<link>http://5p3b4cy2pdbxz2t5kkt6h5tfpfhbqrvlg3pvs3rjqttcujin5htdriid.onion/src/blogs/i-mine-xmr-now.html</link>
+			<description>Read why i stopped mining BTC and started to mine XMR instead</description>
+		</item>
+		
+		
+		<item>
+			<title>I use Windows Now (Again)</title>
+			<pubDate>24 Feb 2021 00:00:00 +0000</pubDate>
+			<link>http://5p3b4cy2pdbxz2t5kkt6h5tfpfhbqrvlg3pvs3rjqttcujin5htdriid.onion/src/blogs/i-use-windows-again.html</link>
+			<description>Read why i got back to use windows (but not what you think tho)</description>
+		</item>
+		
+		<item>
+			<title>Fuck you reddit</title>
+			<pubDate>24 Feb 2021 00:00:00 +0000</pubDate>
+			<link>http://5p3b4cy2pdbxz2t5kkt6h5tfpfhbqrvlg3pvs3rjqttcujin5htdriid.onion/src/blogs/fuck-you-reddit.html</link>
+			<description>Read why the i left reddit, for good...</description>
+		</item>		
+	<!-- END OF ITEMS -->
+</channel>
+</rss>
