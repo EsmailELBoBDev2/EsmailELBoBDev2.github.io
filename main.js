@@ -1,10 +1,11 @@
 let randomMeme = [
-	"files/memes/149528873_215013626984585_3729308711515613928_n.jpg",
-	"files/memes/149528873_215013626984_37938711515613928_n.png",
-	"files/memes/149528873_215013626984585_37293087115156139.jpg",
-	"files/memes/149528873_2150136269845858_n.jpg",
-	"files/memes/14952884_37938711515613928_n.png",
-	"files/memes/149528873_2150136269841515613928_n.png"
+	"src/files/memes/149528873_215013626984585_3729308711515613928_n.jpg",
+	"src/files/memes/149528873_215013626984_37938711515613928_n.png",
+	"src/files/memes/149528873_215013626984585_37293087115156139.jpg",
+	"src/files/memes/149528873_2150136269845858_n.jpg",
+	"src/files/memes/14952884_37938711515613928_n.png",
+	"src/files/memes/149528873_2150136269841515613928_n.png",
+	"src/files/memes/149528873_21501362698415.jpg"
 ];
 let randomItem = Math.floor(Math.random() * randomMeme.length);
 document.getElementById("rmeme").setAttribute('href', randomMeme[randomItem]);
