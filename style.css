@@ -1,56 +1,67 @@
 header{
 	left: 25%;
 	text-align: center;
-}
-.hdev{
 	font-size: 20px;
 }
+
 #name{
 	font-size: 50px;
 	font-weight: 700;
 }
+
 #bio{
 	font-size: 25px;
 }
+
 .hdev ul{
 	list-style: none;
-	text-align: left;
+	text-align: center;
 	padding: 0px;
 	margin:0px;
 }
+
 .hdev li{
 	display: inline;
 }
-.hdev a.active {
-	font-style: italic;
-	color: #11141a;
-	text-decoration: underline;
-}
+
 body{
 	background-color: #232323;
 	color: #939caa;
 }
-body a{
+
+a{
 	color: #939caa;
 	text-decoration: none;
 	font-weight: 700;
 }
-body a:hover{
+
+a:hover{
 	color: #11141a;
 	text-decoration: underline;
 }
-body a:focus{
+
+a:focus{
   border-width:4px;  
   border-style:dashed;
   color: white; 
 }
+
+a.active {
+	font-style: italic;
+	color: #11141a;
+	text-decoration: underline;
+}
+
+a:disabled,
+a[disabled]{
+  pointer-events: none;
+}
+
 .content{
 	font-size: 20px;
 }
-#sm{
-	font-weight: 700;
-}
-#cr {
+
+footer {
 	font-weight: 700;
 	text-align: center;
 }
