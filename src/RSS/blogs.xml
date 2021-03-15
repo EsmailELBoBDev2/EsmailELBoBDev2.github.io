@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<channel> 
+<channel>  
 	<title>Esmail EL BoB's Blogs</title>
 	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
 	<language>en-us</language>
 	<!-- START OF ITEMS -->
+		
+		
+		<item>
+			<title>LGBT was never the answer</title>
+			<pubDate>16 Mar 2021 00:00:00 +0000</pubDate>
+			<link>https://esmailelbobdev2.github.io/my-personal-website/src/blogs/lgbt-was-never-the-answer.html</link>
+			<description>read why lgbt was never the answer</description>
+		</item>
+
 		
 		
 		<item>
