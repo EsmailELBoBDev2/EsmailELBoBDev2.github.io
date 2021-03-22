@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<channel>  
+<channel>   
 	<title>Esmail EL BoB's Blogs</title>
 	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
 	<language>en-us</language>
 	<!-- START OF ITEMS -->
 		
+		
+		<item>
+			<title>It's not GNU/Linux</title>
+			<pubDate>22 Mar 2021 00:00:00 +0000</pubDate>
+			<link>https://esmailelbobdev2.github.io/my-personal-website/src/blogs/its-not-gnu-linux.html</link>
+			<description>Finally an end for this war, read why i think we should call it just Linux not GNU/Linux</description>
+		</item>
+
 		
 		<item>
 			<title>LGBT was never the answer</title>
