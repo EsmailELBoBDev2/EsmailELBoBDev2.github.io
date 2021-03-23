@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
-<channel>   
+<channel>    
 	<title>Esmail EL BoB's Blogs</title>
 	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
 	<language>en-us</language>
 	<!-- START OF ITEMS -->
 		
+				
+		<item>
+			<title>Fuck You and I'll See You Tomorrow Linux</title>
+			<pubDate>23 Mar 2021 00:00:00 +0000</pubDate>
+			<link>https://esmailelbobdev2.github.io/my-personal-website/src/blogs/fuck-you-and-i-will-see-you-tomorrow-linux.html</link>
+			<description>Read why now i see linux hard again and why you should not do what i did!</description>
+		</item>
+
+
 		
 		<item>
 			<title>It's not GNU/Linux</title>
