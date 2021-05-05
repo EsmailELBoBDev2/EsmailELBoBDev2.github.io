@@ -5,11 +5,11 @@
     <td>Mobile</td>
   </tr>
   <tr>
-    <td colspan="1"><img src="https://user-images.githubusercontent.com/28893833/97091962-191d4a00-1640-11eb-81a1-cf083ad50d17.png" width="400"/></td>
-    <td colspan="2"><img src="https://user-images.githubusercontent.com/28893833/97091834-0bb39000-163f-11eb-810e-e8332b229425.png" width="300"/></td>
+    <td colspan="1"><img src="https://user-images.githubusercontent.com/28893833/117209894-4882ef80-adf7-11eb-8a4e-9cdf340e1dfe.PNG" width="400"/></td>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/28893833/117209895-49b41c80-adf7-11eb-87c4-fdf8de1f2c31.PNG" width="300"/></td>
   </tr>
   <tr>
-    <td colspan="2">Not Much a Different, I know</td>
+    <td colspan="2">Not Much a Difference, I know</td>
   </tr>
 </table>
 
