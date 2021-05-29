@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <updated>2021-05-29T01:37:49+00:00</updated>
+  <link rel="self" href="//mov.im/?feed/esmailelbob%40chatserver.space"/>
+  <link rel="alternate" href="//mov.im/?blog/esmailelbob%40chatserver.space"/>
+  <title>Esmail EL BoB’s feed</title>
+  <author>
+    <name>Esmail EL BoB</name>
+    <uri>//mov.im/?blog/esmailelbob%40chatserver.space</uri>
+  </author>
+  <logo>//mov.im/cache/ad697d4cc95d5e549ebe0d859cf01142_210.jpg?t=1621965283</logo>
+  <id>xmpp:esmailelbob@chatserver.space?;node=urn%3Axmpp%3Amicroblog%3A0</id>
+  <generator uri="https://movim.eu" version="v0.19.1rc5">Movim</generator>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:63323532-6264-4533-ad61-3230302d3433</id>
+    <updated>2021-05-27T21:24:42+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Really google, really? The kuffiyeh is what terrorists wear on their head?</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/c252bd53-a200-43de-b4cd-02299639fd48"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:65323364-3835-4864-ad37-3836302d3465</id>
+    <updated>2021-05-25T22:05:27+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use federated social media for free speech sake!</p>
+          <p>As you have seen (or have not seen) in past days FB (and their arms, like IG),Twitter and other centralized social media. used their power to block topics about Palestine and how Israel is bad and messed up lately and that proves my point when i say use decentralized social media! because if one server blocks you, you easily can talk at another server or better, host your own and talk about anything you want.</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/e23d858d-7860-4e2c-8289-0f61785a8f46"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:36363234-6661-4164-ad32-3564622d3432</id>
+    <updated>2021-05-25T19:23:13+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use Monero</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/6624fa1d-25db-421d-9c45-1e4ed2da77d7"/>
+  </entry>
+  <entry>
+    <title>GNU/Linux</title>
+    <id>urn:uuid:65306263-6336-4532-ad32-3231322d3466</id>
+    <updated>2021-05-25T19:23:21+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>I'd just like to interject for a moment.  What you're referring to as Linux,
+is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux.
+Linux is not an operating system unto itself, but rather another free component
+of a fully functioning GNU system made useful by the GNU corelibs, shell
+utilities and vital system components comprising a full OS as defined by POSIX.</p>
+          <p>Many computer users run a modified version of the GNU system every day,
+without realizing it.  Through a peculiar turn of events, the version of GNU
+which is widely used today is often called &amp;amp;amp;amp;amp;amp;quot;Linux&amp;amp;amp;amp;amp;amp;quot;, and many of its users are
+not aware that it is basically the GNU system, developed by the GNU Project.</p>
+          <p>There really is a Linux, and these people are using it, but it is just a
+part of the system they use.  Linux is the kernel: the program in the system
+that allocates the machine's resources to the other programs that you run.
+The kernel is an essential part of an operating system, but useless by itself;
+it can only function in the context of a complete operating system.  Linux is
+normally used in combination with the GNU operating system: the whole system
+is basically GNU with Linux added, or GNU/Linux.  All the so-called &amp;amp;amp;amp;amp;amp;quot;Linux&amp;amp;amp;amp;amp;amp;quot;
+distributions are really distributions of GNU/Linux.</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/e0bcc6e2-2212-4f72-962e-35c145067d46"/>
+  </entry>
+</feed>
