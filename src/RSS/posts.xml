@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>    
+	<title>Esmail EL BoB's Blogs</title>
+	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
+	<language>en-us</language>
+	<!-- START OF ITEMS -->
+				
+		<item>
+			<title>Are there any other CDNs left? [DARK MODE FRIENDLY]</title>
+			<pubDate>10 Jun 2021 00:00:00 +0000</pubDate>
+			<link>https://nerdpol.ch/posts/8d5f90f0ab9d0139eb3852540039b762</link>
+			<description>Are there any other CDNs left? [DARK MODE FRIENDLY]: https://camo.nerdpol.ch/camo/5f6f95d3638b1fd2cc7fb04094b6ffbef013317c/68747470733a2f2f692e726564642e69742f6f31726e3263677639623437312e706e67</description>
+		</item>
+
+		<item>
+			<title>Going #bananas!!!</title>
+			<pubDate>09 Jun 2021 00:00:00 +0000</pubDate>
+			<link>https://nerdpol.ch/posts/11c39960ab440139eb3652540039b762</link>
+			<description>Going #bananas!!!</description>
+		</item>
+
+		<item>
+			<title>Use wownero</title>
+			<pubDate>08 Jun 2021 00:00:00 +0000</pubDate>
+			<link>https://nerdpol.ch/posts/bc839940aa8b0139eb3852540039b762</link>
+			<description>Use wownero</description>
+		</item>
+
+		<item>
+			<title>This site is really good: https://bdsmovement.net/</title>
+			<pubDate>06 Jun 2021 00:00:00 +0000</pubDate>
+			<link>https://nerdpol.ch/posts/6e7be370a91f0139eb3652540039b762</link>
+			<description>This site is really good: https://bdsmovement.net/</description>
+		</item>
+
+		<item>
+			<title>Hey everyone, I’m #newhere. Get ready to see my weird posts soon!</title>
+			<pubDate>06 Jun 2021 00:00:00 +0000</pubDate>
+			<link>https://nerdpol.ch/posts/baf0fe50a91e0139eb3852540039b762</link>
+			<description>Hey everyone, I’m #newhere. Get ready to see my weird posts soon!</description>
+		</item>
+
+
+	<!-- END OF ITEMS -->
+</channel>
+</rss>
