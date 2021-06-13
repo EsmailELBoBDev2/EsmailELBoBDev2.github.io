@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>    
-	<title>Esmail EL BoB's Blogs</title>
+	<title>Esmail EL BoB's Posts</title>
 	<link>https://esmailelbobdev2.github.io/my-personal-website/</link>
 	<language>en-us</language>
 	<!-- START OF ITEMS -->
+
+		<item>
+			<title>i’m so #stressed to where i stopped being stressed because of my #stress</title>
+			<pubDate>10 Jun 2021 00:00:00 +0000</pubDate>
+			<link>https://nerdpol.ch/posts/01983930aea30139eb3652540039b762</link>
+			<description>i’m so #stressed to where i stopped being stressed because of my #stress</description>
+		</item>
+
 
 		<item>
 			<title>Watch #Invincible, it’s so gooooooooood</title>
