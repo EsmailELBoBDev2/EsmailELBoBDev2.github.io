@@ -1,12 +1,12 @@
-// https://jorcus.com/add-css-style-console-log/
+// Thanks to: https://jorcus.com/add-css-style-console-log/
 
 const style1 = [
-'background-image: url("https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif")',
+'background-image: url("https://media.giphy.com/media/10kABVanhwykJW/giphy.gif")',
     'background-size: cover',
     'padding: 100px 200px'
 ].join(';');
 const style2 = [
     'font-size: 20px',
-    'color: white'
+    'color: green'
 ].join(';');
-console.log("%cHeeeey, \n\n %c ", style2, style1);
+console.log("%cGet rickrolled\n\n %c ", style2, style1);
