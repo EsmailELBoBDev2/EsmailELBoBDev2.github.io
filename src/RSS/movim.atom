@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <updated>2021-06-25T03:50:38+00:00</updated>
+  <link rel="self" href="//mov.im/?feed/esmailelbob%40chatserver.space"/>
+  <link rel="alternate" href="//mov.im/?blog/esmailelbob%40chatserver.space"/>
+  <title>Esmail EL BoB’s feed</title>
+  <author>
+    <name>Esmail EL BoB</name>
+    <uri>//mov.im/?blog/esmailelbob%40chatserver.space</uri>
+  </author>
+  <logo>//mov.im/cache/ad697d4cc95d5e549ebe0d859cf01142_210.jpg?t=1624593035</logo>
+  <id>xmpp:esmailelbob@chatserver.space?;node=urn%3Axmpp%3Amicroblog%3A0</id>
+  <generator uri="https://movim.eu" version="v0.19.1rc5">Movim</generator>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:37323432-3465-4335-ad64-6563652d3438</id>
+    <updated>2021-06-25T00:41:23+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>you gotta play this game, its fucking amazing</p>
+          <p>https://ohmygit.org/</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/72424ec5-dece-48e1-afce-478401f6a62a"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:31336238-6164-4266-ad63-3535382d3464</id>
+    <updated>2021-06-24T23:18:34+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>#windows 11 announcement was today. And i did not feel the hype because i already tried it. ugh....</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/13b8adbf-c558-4d66-a89f-55067c88b070"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:34623531-6638-4533-ad63-3466622d3466</id>
+    <updated>2021-06-24T13:44:03+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>OH,
+i thought i got blocked after my posts about lgbt but everything magically works now, thats weird</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/4b51f8e3-c4fb-4fb4-82a1-1336ffce8162"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:36643433-6633-4563-ad66-6434302d3439</id>
+    <updated>2021-06-01T13:59:21+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>No matter what you say or to do. LGBTQ+ still a sin in religions and as a religious guy i'm proud to say that i do not support LGBTQ+ (i don't hate them i just do not support them)</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/6d43f35c-fd40-49ec-9842-76d9af3ce1ab"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:61303437-6561-4336-ad39-3061372d3435</id>
+    <updated>2021-06-01T10:42:48+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Why the hell my <code>default keyring</code> password is <code>toor</code>???</p>
+          <hr/>
+          <p>
+            <strong>
+              <em>Kali linux enters the chat</em>
+            </strong>
+          </p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/a047eac6-90a7-45e2-b281-44c282a120dc"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:61343434-3363-4164-ad65-3663342d3433</id>
+    <updated>2021-06-01T10:45:13+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>FINALLY AUR KEYRING PROBLEM IS SOLVED</p>
+          <p>
+            <code>https://www.reddit.com/r/linuxquestions/comments/nouqxe/cant_install_using_pamac/</code>
+          </p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/a4443c1d-e6c4-43e4-a0fd-706f09980035"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:66386130-6132-4233-ad34-3666332d3438</id>
+    <updated>2021-05-31T03:29:23+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p><code>SigLevel = Never</code> I know it's a suicide but FUCK i can't install something from AUR without i get error about PGP is not matching.</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/f8a0a223-46f3-48a4-81f0-ccf72594ba6c"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:63306534-6561-4631-ad36-3935652d3461</id>
+    <updated>2021-05-30T12:21:47+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Fucking AUR and PGP Keys. each darn time i try to install a package i get error that PGP does not match</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/c0e4eaf1-695e-4a89-8844-451a9a114796"/>
+  </entry>
+  <entry>
+    <title>My newest blog! </title>
+    <id>urn:uuid:37383036-3638-4339-ad36-6165392d3464</id>
+    <updated>2021-05-30T04:02:44+00:00</updated>
+    <link rel="alternate" href="https://esmailelbobdev2.github.io/my-personal-website/src/blogs/free-speech-is-a-lie.html"/>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/780668c9-6ae9-4dbb-a512-32a53569f073"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:64653964-6131-4930-ad31-3464312d3435</id>
+    <updated>2021-05-29T23:36:01+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use linux</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/de9da190-14d1-4529-9725-d1dc4351f7b9"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:63386639-3065-4239-ad66-6536332d3438</id>
+    <updated>2021-05-29T22:26:44+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use mov.im</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/c8f90eb9-fe63-48b7-9ac7-2cc73238333e"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:65366162-3433-4239-ad35-6339332d3461</id>
+    <updated>2021-05-29T22:20:58+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use Arch Linux GUI instead (if you are dumb like me and can't install GRUB using vanilla arch linux ISO)</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/e6ab43b9-5c93-4ab6-a0c7-1baf054aff16"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:63346137-6438-4130-ad33-3332652d3432</id>
+    <updated>2021-05-29T21:18:32+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Fuck you GRUB (because it's hard on my noob brain to install it)</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/c4a7d8a0-332e-4249-b55b-28b6942ee4a8"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:62313634-3066-4436-ad34-3339652d3437</id>
+    <updated>2021-05-29T22:23:40+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>You know your team if fucked up when you be the MVP of your team...</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/b1640f46-439e-47e3-be85-0c827683d5c9"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:63323532-6264-4533-ad61-3230302d3433</id>
+    <updated>2021-05-27T21:24:42+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Really google, really? The kuffiyeh is what terrorists wear on their head?</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/c252bd53-a200-43de-b4cd-02299639fd48"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:65323364-3835-4864-ad37-3836302d3465</id>
+    <updated>2021-05-25T22:05:27+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use federated social media for free speech sake!</p>
+          <p>As you have seen (or have not seen) in past days FB (and their arms, like IG),Twitter and other centralized social media. used their power to block topics about Palestine and how Israel is bad and messed up lately and that proves my point when i say use decentralized social media! because if one server blocks you, you easily can talk at another server or better, host your own and talk about anything you want.</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/e23d858d-7860-4e2c-8289-0f61785a8f46"/>
+  </entry>
+  <entry>
+    <title>Contact publication</title>
+    <id>urn:uuid:36363234-6661-4164-ad32-3564622d3432</id>
+    <updated>2021-05-25T19:23:13+00:00</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <div>
+          <p>Use Monero</p>
+        </div>
+      </div>
+    </content>
+    <link rel="alternate" type="text/html" href="https://mov.im/?blog/esmailelbob%40chatserver.space/6624fa1d-25db-421d-9c45-1e4ed2da77d7"/>
+  </entry>
+</feed>
