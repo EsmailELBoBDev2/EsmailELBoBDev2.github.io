@@ -26,9 +26,9 @@
 ## ----------------------------------------
 # What's New ?                      
 ## (For Users): 
-1. **Updated the look, functions and codes of the whole website to try make it more minimal**
+1. **Changed the colors**
 ## (For Devs): 
-1. **Edited + Improved (or broke) HTML, CSS & JS**
+1. **Nothing**
 ## ----------------------------------------
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/my-personal-website.git` (*You Not Need*: **README.md** *&* **COPYING** *files*)
