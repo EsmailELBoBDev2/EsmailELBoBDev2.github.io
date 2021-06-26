@@ -9,4 +9,4 @@ const style2 = [
     'font-size: 20px',
     'color: green'
 ].join(';');
-console.log("%cGet rickrolled\n\n %c ", style2, style1);
+console.log("%cGet rickrolled < https://media.giphy.com/media/10kABVanhwykJW/giphy.gif >\n\n  %c ", style2, style1);
