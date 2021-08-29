@@ -6,13 +6,19 @@
 	<language>en-us</language>
 	<!-- START OF ITEMS -->
 
-
+<!-- EXAMPLE ITEM:
+		<item>
+           <title>firstquestion</title>
+           <url>test-domain.com</url>
+           <description><![CDATA[]]></description>
+         </item>
+-->
 
 		<item>
 			<title>Privacy Here I Come</title>
 			<pubDate>17 Aug 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/privacy-here-i-come.html</link>
-			<description>call me a pro privacy, please!</description>
+            <description><![CDATA[<p>Ahh, that's hot, that's hot<br>Well once again i stopped of writing blogs (Because i found no good topic to talk about) but now i have one :) and it's about privacy (read the fucking title). So in past few days (actually weeks) i started to make myself more private by: 1) masking all my emails with aliases. 2) fake all data using fakenamegenerator and 3) using fake people photos from thispersondoesnotexist.com<br>And yes as you might expected it took so much time from me to do this by visiting every site and replacing my photo/info and even tweaking privacy info and i enabled TOTP too, so it was like a big movment to make my accounts better and you know what, i'm proud of the results. Now anyone can't link between me and my accounts because literally each one got it's own username and it's data plus it's own masked email address so even companies can't link me (well expect linking my IP address) so i recommend you doing it too! and here is the list of what you do:<br>1) Change username<br>2) Change info to fake ones<br>3) Change email address, add strong password and enable 2FA<br>4) put fake photo<br>5) play with privacy settings and opt out of data collection<br>6) Delete un-needed accounts<br>7) I think there are more steps but i forgot :)</p>]]></description>
 		</item>
 
 
@@ -20,7 +26,7 @@
 			<title>I Fucking Hate Companies</title>
 			<pubDate>29 May 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/i-fucking-hate-companies.html</link>
-			<description>Read why i don't like big companies</description>
+            <description><![CDATA[<p>Dude, why it takes me so long to type a blog? anyways! you probably have heard about Audacity. The best FOSS application that got ruined by drugs, I mean a new owner (*looks at you Freenode*). If you did not hear tho (stop wearing headphones already) there is that app called Audacity, it's good for audio editing. and its FOSS (Free and Open Source Software) so it makes it more better! so Everything was fine until Audacity got a new owner (ownership changed) and that new company seems they don't love FOSS so much and they just want moneyyy. So they started to take away Audacity from the FOSS or at least try to get some profit from it (by collecting data) and indeed they started their ways to make the codebase closed source and added (or will add in next version) telemetry. Now i would say telemetry might be fine i mean it's FOSS app and some data collection maybe like app version or OS is not that bad but actually they collect all info from your OS, CPU, app version and more mentioned in their privacy policy, so it's bad and what makes it worse is that now if you are under 13 years old, you can not use the app (because of the telemetry). which of course conflicts with GPL so maybe we will see some lawsuits soon? beside that last statement about law enforcement they said they can collect data for law enforcement but they did not say which data? and they mentioned they will not sell your data but they mentioned it under header of CPPA (The California Privacy Rights Act) which is weird maybe its mistake or maybe they mean it. so yes thats why i hate companies, they just love to ruin good stuff. But before your tears come down, already some good people started to fork Audacity and make their own version of it without all data collection so you my friend still can use old Audacity without the fear from telemetry! and my last word would be: Muse Group, fuck you. </p>]]></description>
 		</item>
 
 
@@ -28,7 +34,7 @@
 			<title>Free Speech is a Lie</title>
 			<pubDate>29 May 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/free-speech-is-a-lie.html</link>
-			<description>Read why i don't like big social media companies like FB and why i don't see them really supporting the free speech</description>
+            <description><![CDATA[<p>Ah, Finally back to write weird and stupid blogs! i know i know i was out for some time now and it was due some problems happend to me and i was SUPER depressed (even tho i'm still!) but now it tuned a little low. so here we go back to blogs again!<br><br>So You probably have heard about Palestine and Israel (fuck you Israel) and how Israelis was getting Palestinians people out of their homes lately...And I was happy that finally some people started to see the truth about Israel (again fuck you) and how a lot of 'famous' people started to stand with Palestine! but from the other side I was sad about how social media (FB, Twitter and others) started to cut those voices out by blocking hashtags or block people from posting for days! or even block/delete the whole account!!! and of course I don't need to remind you why is that happening (because these social media websites are based in USA and you know USA is best buddy for Israel so yup!) i was super mad about it, not just because Palestine thing but in general. they advertise that they are a platform for free speech and see what they are doing now. So yeah free speech is a lie at least that applies on those big data companies. but if you really want some free speech and say whatever you want, you can use any decentralized social media like Mastodon so when you get blocked by one instance you can get to another one or even host your own. So the take away from this blog is: 1. Israel is bad so fuck you Israel 2. Big companies do not support free speech 3. Use something like Mastodon instead<br><br><br>SOURCE:<br>1. https://twitter.com/a_leesha1/status/1394615794588438530 (EN)<br>2. https://twitter.com/Lau_Bast/status/1392941172432252932 (EN)<br>3. https://twitter.com/joeyayoub/status/1392228173316857858 (EN)<br>4. https://www.middleeasteye.net/news/sheikh-jarrah-israel-palestine-activists-social-media-deleted-content-concerns (EN)<br>5. https://twitter.com/m7mdkurd/status/1392382265968185346 (EN)<br>6. https://twitter.com/m7mdkurd/status/1390321715423727623 (EN)<br>7. https://twitter.com/joeyayoub/status/1392228173316857858 (EN)<br>8. http://www.noonpost.com/content/40742 (AR)<br>9. https://alqabas.com/article/5781975-%D9%85%D8%A7-%D8%B3%D8%B1-%D8%A7%D9%84%D8%B5%D9%81%D9%82%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A8%D9%8A%D9%86-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8 (AR)</p>]]></description>
 		</item>
 
 
@@ -36,7 +42,7 @@
 			<title>Fuck You and I'll See You Tomorrow Linux</title>
 			<pubDate>23 Mar 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/fuck-you-and-i-will-see-you-tomorrow-linux.html</link>
-			<description>Read why now i see linux hard again and why you should not do what i did!</description>
+            <description><![CDATA[<p>So as you may -do not- know that i now dual boot (windows and linux) so far so good right? actually no as i got into linux more and more i wanted to make it harder and harder so i can learn but the thing is i made it too much hard for me so now i use DWM within Artix linux right away from 2 months of using Manajro so of course it's like hell right now giving to that windows so much easier and faster but you know what! i'm going to force myself into linux to deal with it and knowing well that i will take first time to get used to it but once i did it will be so nice and easy so the goal here for you as a reader don't do like me, yes learn linux but don't force yourself into the hard take it steps as now i regret doing dwm and maybe use xfce or something first but yeah...DWM so Fuck You and I'll See You Tomorrow* Linux<br><br>*It's a meme called "Fuck You and I'll See You Tomorrow"</p>]]></description>
 		</item>
 
 
@@ -45,7 +51,7 @@
 			<title>It's not GNU/Linux</title>
 			<pubDate>22 Mar 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/its-not-gnu-linux.html</link>
-			<description>Finally an end for this war, read why i think we should call it just Linux not GNU/Linux</description>
+            <description><![CDATA[<p>Sooo, to put an end to this war, it's called Linux not GNU/Linux. now before starts to boo me, listen to me. someday i was saying it's GNU/Linux aswell but after some searching online i found it's not because simply GNU is not OS (Operating system) gnu is just punch of tools that works well on top of linux so linux itself is the kernel because again kernel or OS is what deals with Hardware and guess what? it's only linux not gnu/linux because we have some linux distros like LFS (linux from scratch) that does not need for gnu in order to work so linux can play on its own fine without the need to gnu so yes its not gnu/linux<br><br>this video might help you: https://invidious.kavin.rocks/watch?v=RNeKYjWx-s4</p>]]></description>
 		</item>
 
 		
@@ -53,16 +59,16 @@
 			<title>LGBT was never the answer</title>
 			<pubDate>16 Mar 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/lgbt-was-never-the-answer.html</link>
-			<description>read why lgbt was never the answer</description>
+            <description><![CDATA[<p>so so to put end to this, and prove my point that lgbt was never the answer and that it's literally stupid thing. 1. we lived a lot without admitting the lgbt and we were fine so why now? 2. let's say you buy a new product, and you don't know how to deal with it so you read its manual to understand it right? now let's say the product is the human (don't get me wrong) and the manual is your religion that tells you how to deal in life and in those religions LGBT is a sin (yes in all, at least the 3 who came from Allah) so your manual says that you are not made to be gay so why bother try? knowing that it's not fit for you? so please read your fucking manual and do it and lgbt was never the answer and will not be. last thing you say that thing (i don't know its name) in past was saying lgbt is a mental disease and now its not and you say oh so it was mistaken, well i say they are now mistaken. i mean they do mistakes right? so yes i think what they did was a mistake --- NOTE: i don't mean humans are products or anything all i tried to do is giving examples</p>]]></description>
 		</item>
 
 		
 		
 		<item>
-			<title>I think I'm lgbt now.html</title>
+			<title>I think I'm lgbt now</title>
 			<pubDate>15 Mar 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/i-think-iam-lgbt-now.html</link>
-			<description>Am i a part of LGBTQ+ now? or maybe it's just weird coincidence</description>
+            <description><![CDATA[<p>So lately i was browsing youtube as my usual and found about "super straight", what is it? it's like being normal guy (or girl) and you just love other gender (but not trans) which is kinda sounds the defaultand the right thing right? the weird thing is that it's part of LGBT now even tho trans people say its transphopic so its like part of it but attacking of it? stupid and i'm scared of that someday we all be inside LGBT even tho if you are straight and not trans (just like super straight) so if you hate LGBT (like me) you can't really anymore as you are part of them so im really scared of that --- an update of my previous blog: to make it clear i don't hate LGBT people i just hate the sin so if a gay came to me for a help i would do it gladly, just as any other guy who is doing sins and need help to stop but still i dont talk or deal with them as a sin i dont support them so hope it be clear</p>]]></description>
 		</item>
 		
 
@@ -70,7 +76,7 @@
 			<title>Stop fighting me</title>
 			<pubDate>6 Mar 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/stop-fighting-me.html</link>
-			<description>Read some of my points of views to stop fighting me</description>
+            <description><![CDATA[<p>As you know, each one of us got that opinion where everyone else hate it, like maybe you see Fortnite is better than Minecraft or you see windows is better than Linux. Each one of us got that type of opinions and I get it, I accept it. As you got your opinions I got mine too! But as I understand you, sadly you don't understand me (I talk about the majority) so as you know, I do not support LGBTQ+ and I hate Israelis. Yes you can hate me or call me closed mind but at least hear my point of view. About LGBTQ+, it's simply a sin in Islam, yes it is even if you said it's not, it is, and you can read about it more at: https://en.wikipedia.org/wiki/LGBT_in_Islam so as a guy who follows his religion and tries his best to follow it I have to just respect it, and it's judges so when it says drinking beer is a sin I have to accept it and do not do it so same as LGBTQ+ it's just a sin as anything else! And as you know sins are bad, so I do not hate LGBTQ+ i just don't support them (or sins in general) because it's a sin just like not supporting guys who drink beer or doing weed, so yeah sins are bad, and I do not support them including LGBTQ+. Now about Israelis, uh it's a long topic but to make it short, we divided between Israel is the real owner of the land or not and from my point of view they are not, why? Because simply Balfour who gave the land to Israelis, so it was Palestine before it be Israel and yes I know Israelis were in that land before us (Arab) so that's why I said we divided so if you want to count it from history side, it's for Israelis but if you want to count it from papers side and let's get real all of our stuff we do is depending on papers and papers work (and that side which I'm going to take) then it's for Palestine because simple, in that paper Balfour made, he literally wrote Palestine in the paper, so it was and by the proof of papers that it's Palestine so when this land turned into a country it was Palestine first (again country by papers) - so here you go my point of views, hate them or like them, I don't care I just wanted to make it clear for all of you</p>]]></description>
 		</item>
 
 		
@@ -79,14 +85,14 @@
 			<title>Searching on Myself</title>
 			<pubDate>4 Mar 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/searching-on-myself.html</link>
-			<description>Read how i finally found a way to search on myself and delete (or at least hide) my old online data</description>
+            <description><![CDATA[<p>Ever heard of sherlock? if you did then i assume you are more tech savvy than me but if you did not, come and join me xD. i was browsing reddit as usual (before leaving it) and i was searching about a way to get all of my accounts that i made in the past so i can delete all of them and minimize my digital fingerprint so i came across sherlock this wonderful application, it's like startpage search (no google search here) for usernames, you put your own username (at least that what i did) and it searches in some indexes and gives you the websites that got your username so i started to use it so i can delete those nasty old accounts and thanks to windows (actually no, fuck you windows) python sucks on it so i use sherlock on repl.it so if you are wondering about something to search on yourself to delete your old accounts (pipl was an option but now its paid, fuck you too) or search on your ex that cheated and left ya (not me, cries) you can use sherlock!</p>]]></description>
 		</item>
 		
 		<item>
 			<title>Fuck You Nvidia</title>
 			<pubDate>28 Feb 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/fuck-you-nvidia.html</link>
-			<description>Read why i nvidia (even more now)</description>
+            <description><![CDATA[<p>You probably have heard about the new nvidia's call about creating a new gpus for just mining, you agree or disaggre but i want to give my opinion, and my opinion is that is bullshit, they claim they did this to prevent people to get all the stock and gamers get nothing right? well i will bear with that and say okay but why the hell they just blocked one type of cryptomining, why did not block all of them then? like you can't mine ETH but you still mine BTC or even XMR so why just why for example me as Ismael i mine XMR now so i still would buy A LOT of these cards and stock shortage will remain the same so i see its a dick move and for just getting more money of people, although its good move for cryptominers that they don't have to buy expansive cards with RGB and stuff (xd) but still a dick move just like intel blocked ECC memory or overcloacking or like nvidia simply act bad with linux community so at the end as linus torvalds said before and i say it again fuck you nvidia</p>]]></description>
 		</item>
 
 		
@@ -94,7 +100,7 @@
 			<title>BTC is hard, i mine XMR now</title>
 			<pubDate>25 Feb 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/i-mine-xmr-now.html</link>
-			<description>Read why i stopped mining BTC and started to mine XMR instead</description>
+            <description><![CDATA[<p>As you know (or don't) i finally upgraded my PC (from a really low range PC to mid one) so counts as improvement, and i was mining BTC back in 2019 as a way to get 'free money' but of course with my old PC all i got 5000 Satoshi in like a whole month (or two if i remember right) so i stopped and then i switched to linux and then i tried to mine again on linux but all miners were bad (i did not like them) so i dropped my dream until i upgraded my PC and i use dual boot now so i said why not to get back to mine but hold on BTC is so famous and all mine it now so its difficulty will be so hard (even on my new PC) so i said nah i want more little famous coin and then i said why not privacy centered one like XMR? then i searched until i found about XMRig (and their amazing config wizard) and i searched about a pool and found about minexmr and now i mine XMR :)</p>]]></description>
 		</item>
 		
 		
@@ -102,15 +108,16 @@
 			<title>I use Windows Now (Again)</title>
 			<pubDate>24 Feb 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/i-use-windows-again.html</link>
-			<description>Read why i got back to use windows (but not what you think tho)</description>
+            <description><![CDATA[<p>So i finally, finally upgraded my PC (with mid-range pc thanks to our economy) and i planned to use dual boot, windows for games and linux for all other stuff but you know me i refuse now to use apps that harm my privacy so i was searching online about something to debloat W10 and found about windows AME, its normal windows 10 but better as they don't disable trakcers, they delete it at all so of course functions like windows update goes away but if you asked me, meh! i can live without it so i do now use windows again but without all MS crap and i recommend you to use windows AME too!</p>]]></description>
 		</item>
 		
 		<item>
 			<title>Fuck you reddit</title>
 			<pubDate>24 Feb 2021 00:00:00 +0000</pubDate>
 			<link>https://esmailelbobdev2.github.io/src/blogs/fuck-you-reddit.html</link>
-			<description>Read why the i left reddit, for good...</description>
+            <description><![CDATA[So last night i was browsing reddit as usual (i got a lot of free time :V) and i was in /r/linux and i saw a post about a new spotify player so i said cool then i went to comments so i found people talk about snap and flathub so i just said fuck both (it's my point of view) then i said it does not help as much as it breaks stuff. but as usual reddit does not like your opinions and all started to get mad at me and even the mods banned me for literally saying my point of view so fuck you reddit i'm out and now i use libreddit instead (thanks for the dev for bringing this project out for the life) and now i use it instead, i moved all of my subreddits over libreddit and now i just use it.]]></description>
 		</item>		
+
 	<!-- END OF ITEMS -->
 </channel>
 </rss>
