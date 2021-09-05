@@ -8,11 +8,20 @@
 
 <!-- EXAMPLE ITEM:
 		<item>
-           <title>firstquestion</title>
-           <url>test-domain.com</url>
-           <description><![CDATA[]]></description>
+           <title>TITLE</title>
+   		   <pubDate>DD MM YYYY 00:00:00 +0000</pubDate>
+           <url>https://esmailelbobdev2.github.io/src/blogs/</url>
+           <description><![CDATA[WORDS HERE]]></description>
          </item>
 -->
+
+		<item>
+           <title>I'm on youtube now...</title>
+		   <pubDate>5 SEP 2021 00:00:00 +0000</pubDate>
+           <url>test-domain.com</url>
+           <description><![CDATA[<p>Yup, you read it right! I'm trying to get out of my bash ("shell", pun intended) to try and contact with so called fellow humans so I started my YT channel from some days ago and i started to upload stuff related to (you know) computers and it's in Arabic so do not bother checking it (or do: youtube.com/channel/UC5-6sB2VEojPNvttTnvCOVw) and i'm planning to be like 'the hated one' or 'techlore' but in Arabic of course so wish me luck on my new journey.</p>]]></description>
+         </item>
+
 
 		<item>
 			<title>Privacy Here I Come</title>
