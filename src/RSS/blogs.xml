@@ -10,7 +10,7 @@
 		<item>
            <title>TITLE</title>
    		   <pubDate>DD MM YYYY 00:00:00 +0000</pubDate>
-           <url>https://esmailelbobdev2.github.io/src/blogs/</url>
+           <link>https://esmailelbobdev2.github.io/src/blogs/</link>
            <description><![CDATA[WORDS HERE]]></description>
          </item>
 -->
@@ -19,7 +19,7 @@
 		<item>
            <title>Say no more Proton</title>
 		   <pubDate>13 SEP 2021 00:00:00 +0000</pubDate>
-           <url>https://esmailelbobdev2.github.io/src/blogs/say-no-more-proton.html</url>
+           <link>https://esmailelbobdev2.github.io/src/blogs/say-no-more-proton.html</link>
            <description><![CDATA[<p>Protonmail the most famous 'private' email provider. I knew them from MR. Robot show (lol) but as media taught us, not all we see is true in movies. We all have heard about how ProtonMail logged IP address of French activist and how it's clearly stated in their privacy poilicy that they DO NOT log IP(s) but hey it turned out to be a lie so yes all i can say is protonmail sucks and you should stop using it (also use fucking tor browser to mask your IP)and do not trust privacy polices so easily next time. so main takeaway from it is that do not trust privacy polices or comapnies easily even if they are pretending to be a privacy friendly company<br><br>NEWS SRC: https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/</p>]]></description>
          </item>
 
@@ -27,7 +27,7 @@
 		<item>
            <title>Nothing is secure</title>
 		   <pubDate>13 SEP 2021 00:00:00 +0000</pubDate>
-           <url>https://esmailelbobdev2.github.io/src/blogs/nothing-is-secure.html</url>
+           <link>https://esmailelbobdev2.github.io/src/blogs/nothing-is-secure.html</link>
            <description><![CDATA[<p>So i was chatting with my poor friend (poor in mind not in money) and she asked me why the hell im upset from our country and that i don't like seeing them hosting our health records on servers. I replied with a smile and i said well, nothing is secure. nothing really, think about it, Let's take biggest companies, they still getting hacked (Facebook, Microsoft, name few more) and nothing really can stop them. my friend of course replied and said oh so it's system's fault then it's easy we can improve it right? (poor friend). i replied and said nope! becuase no matter what we do, nothing will ever be secure, why? becuase we are fucking humans. even if we made 100% secure system, we fool ourselves (aka social engineering) like what happened with twitter and that famous bitcoin scam. we hacked the people not the system so pretty much we are fucked, no matter what we do we are going to get hacked and thats why i'm upset and i'm scared too that someday our servers get hacked and all of our health records be online for free! - My friend replied and said oh! then she blocked me. Ah, it was nice to talk to a fellow human afterall.</p>]]></description>
          </item>
 
@@ -35,7 +35,7 @@
 		<item>
            <title>I'm on youtube now...</title>
 		   <pubDate>5 SEP 2021 00:00:00 +0000</pubDate>
-           <url>https://esmailelbobdev2.github.io/src/blogs/i-am-on-yt-now.html</url>
+           <link>https://esmailelbobdev2.github.io/src/blogs/i-am-on-yt-now.html</link>
            <description><![CDATA[<p>Yup, you read it right! I'm trying to get out of my bash ("shell", pun intended) to try and contact with so called fellow humans so I started my YT channel from some days ago and i started to upload stuff related to (you know) computers and it's in Arabic so do not bother checking it (or do: youtube.com/channel/UC5-6sB2VEojPNvttTnvCOVw) and i'm planning to be like 'the hated one' or 'techlore' but in Arabic of course so wish me luck on my new journey.</p>]]></description>
          </item>
 
