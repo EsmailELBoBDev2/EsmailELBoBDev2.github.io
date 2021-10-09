@@ -16,6 +16,13 @@
 -->
 
 		 <item>
+           <title>You know, i'm something of a aur myself!</title>
+		   <pubDate>09 OCT 2021 00:00:00 +0000</pubDate>
+           <link>https://esmailelbobdev2.github.io/src/blogs/you-know-im-something-of-a-aur-myself.html</link>
+           <description><![CDATA[<p>I love roblox, i love playing the game since i was a kid. and i moved to linux so i got problem with games and online games as you know so i lost hope of playing roblox on linux until a couple of months ago i met "grapejuice" it seems Wine got a patch that finally play nice with Roblox and i was happy a lot but i got another problem and it's mouse movments, it get stuck each time i right click it so i had to "alt+tab" each darn until i once again found the salvation! it was a custome build of wine with a patch that fixes mouse in roblox and i felt happy again, i tried to search online and i found one already made patch but it did not work, i searched more and found another one and same thing sadly it did not work. Here i really started lose hope and say fuck it but i saw that "Roblox on linux" wiki and i knew how to make (Apply) that mouse patch myself and indeed i did it and thank god it was easy on my newbie brain so i felt happy, it works, IT WORKS but now i got another problem that i compiled it so each darn update i need to compile again and here i said no no i will contact "Chaotic-AUR" so they compile it and i get ready to use binary but another prolbme came up that no body made an aur for that patch before, here i felt the wind is calling me and saying "make the aur ismael" so i spent over 5 hours trying to make that "PKGBUILD" and at the end i can say it works...but and big but is that "Chaotic-AUR" did not need it because for weird reasons "Wine-TGK" and "Chaotic-AUR" are buddies? so literally i needed is create new file and literally change one line of it to include roblox patch and that's it really...so 5 fucking hours spent over nothing and i feel mad A LOT but at same i learned about aur more, heck i built my own package (that i deleted afterwards) but i still have the repo marked as private in my github so i can steal code instead of re-creating stuff so i've learned stuff today but at same time my god 5 hours for nothing</p>]]></description>
+         </item>
+
+		 <item>
            <title>How to be a programmer (not like me!)</title>
 		   <pubDate>04 OCT 2021 00:00:00 +0000</pubDate>
            <link>https://esmailelbobdev2.github.io/src/blogs/how-to-be-programmer.html</link>
