@@ -1,16 +1,19 @@
 /*Nord Theme - https://gist.github.com/rien333/8ec3528c3ab3160cde86e9cf2c0429fa  (NOT FULL OF IT)*/
-*{
-border-color: #88c0d0 !important;
+* {
+	border-color: #88c0d0 !important;
 }
+
 a {
-color: #eef1f6 !important;
+	color: #eef1f6 !important;
 }
+
 a:visited {
-color: #eef1f6 !important;
+	color: #eef1f6 !important;
 }
+
 body {
-background-color: #2e3440 !important;
-color: #d8dee9 !important;
+	background-color: #2e3440 !important;
+	color: #d8dee9 !important;
 }
 
 
@@ -18,44 +21,44 @@ color: #d8dee9 !important;
 
 
 /*My own CSS*/
-header{
+header {
 	left: 25%;
 	text-align: center;
 	font-size: 20px;
 }
 
-#name{
+#name {
 	font-size: 50px;
 	font-weight: 700;
 }
 
-#bio{
+#bio {
 	font-size: 25px;
 }
 
-.hdev ul{
+.hdev ul {
 	list-style: none;
 	text-align: center;
 	padding: 0px;
-	margin:0px;
+	margin: 0px;
 }
 
-.hdev li{
+.hdev li {
 	display: inline;
 }
 
-a{
+a {
 	text-decoration: none;
 	font-weight: 700;
 }
 
-a:hover{
+a:hover {
 	text-decoration: underline;
 }
 
-a:focus{
-  border-width:4px;  
-  border-style:dashed;
+a:focus {
+	border-width: 4px;
+	border-style: dashed;
 }
 
 a.active {
@@ -64,11 +67,11 @@ a.active {
 }
 
 a:disabled,
-a[disabled]{
-  pointer-events: none;
+a[disabled] {
+	pointer-events: none;
 }
 
-.content{
+.content {
 	font-size: 20px;
 }
 
@@ -76,5 +79,3 @@ footer {
 	font-weight: 700;
 	text-align: center;
 }
-
-
