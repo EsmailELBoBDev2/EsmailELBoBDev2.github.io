@@ -15,6 +15,14 @@
          </item>
 -->
 
+		<item>
+           <title>New blog, new place!</title>
+   		   <pubDate>28 12 2021 00:00:00 +0000</pubDate>
+           <link>https://esmailelbobdev2.github.io/src/blogs/new-blog.html</link>
+           <description><![CDATA[I'm moving my blogs into a new (self-hosted) website called ghost and it's link will be https://blog.esmailelbob.xyz and it's RSS feed will be https://blog.esmailelbob.xyz/rss]]></description>
+         </item>
+
+
 		 <item>
            <title>I lost my ctemplar account</title>
 		   <pubDate>7 NOV 2021 00:00:00 +0000</pubDate>

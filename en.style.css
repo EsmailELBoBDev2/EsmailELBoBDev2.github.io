@@ -32,12 +32,8 @@ header {
 	font-weight: 700;
 }
 
-#en {
-	text-align: left !important;
-}
-
-#ar {
-	float: right !important;
+#bio {
+	font-size: 25px;
 }
 
 .hdev ul {
@@ -77,14 +73,9 @@ a[disabled] {
 
 .content {
 	font-size: 20px;
-	margin-top: 200px;
 }
 
 footer {
 	font-weight: 700;
 	text-align: center;
-}
-
-h1 {
-	display: inline;
 }
