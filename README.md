@@ -18,5 +18,5 @@
 * Added and Edited new pages/blogs!
 * Fixed and Updated links!
 * Used languagetool.org to fix my bad English!
-* Beautified my HTML and CSS
+* Beautified my HTML and CSS.
 * Nothing, more...
