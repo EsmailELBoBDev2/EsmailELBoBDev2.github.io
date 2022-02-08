@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-# WTF is new?
+# What is new?
 * Added Arabic!
 * Added and Edited new pages/blogs!
 * Fixed and Updated links!
