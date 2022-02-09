@@ -9,7 +9,7 @@
     <td colspan="2"><img src="https://i.imgur.com/uy6Peyi.png" width="300"/></td>
   </tr>
   <tr>
-    <td colspan="2">Not Much a Difference, I know</td>
+    <td colspan="2">Not Much a Difference, I know!</td>
   </tr>
 </table>
 
